@@ -1,0 +1,13 @@
+{
+  "name": "milinda",
+  "version": "1.0.0",
+  "description": "多版本彌蘭王問經",
+  "type":"module",
+  "main": "gen-bazhou.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
