@@ -41,7 +41,11 @@ const processfile=(content,fn,idx)=>{
 
     out.push('SECTION'+idx+'\n'+chicontent);
     outpali.push('SECTION'+idx+'\n'+palicontent);
-    outfootnote.push('SECTION'+idx+'\n'+footnote);
+    outfootnote.push('SECTION'+idx+'\n'+footnote
+        .replace(/<span id="note(\d+)">/g,(m,m1)=>'^f'+m1+'\t' )
+        .replace(/<[^>]+>/g,'')
+        .replace(/\n+/g,'\n')
+    );
 }
 for (let i=1;i<=36;i++) {
     const fn='raw/ccc/Mi'+i.toString()+'.htm';
@@ -49,6 +53,6 @@ for (let i=1;i<=36;i++) {
     processfile(content,fn,i)
 }
 
-writeChanged('ccc.txt',out.join('\n'),true);
-writeChanged('ccc-pali.txt',outpali.join('\n'),true);
+writeChanged('ccc.off',out.join('\n'),true);
+writeChanged('ccc-pali.off',outpali.join('\n'),true);
 writeChanged('ccc-footnote.txt',outfootnote.join('\n'),true);
