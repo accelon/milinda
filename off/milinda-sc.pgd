@@ -1,5 +1,5 @@
-^ak#milinda〔Milindapañha〕^bk#milinda^sc1
-^ck1^z2 1. Ārambhakathā 
+{id:"milinda-sc",title:"Milindapañha",aligncaption:"Pli"}
+Preface	^ck1^z2 1. Ārambhakathā 
 ^m1 Namo tassa Bhagavato Arahato Sammāsambuddhassa. 
  Khuddakanikāye
 Milindapañhapāḷi
@@ -51,7 +51,7 @@ pubbayogo milindapañhaṁ lakkhaṇapañhaṁ meṇḍakapañhaṁ anumānapañ
 ^m9 Tattha milindapañho lakkhaṇapañho, vimaticchedanapañhoti duvidho. 
 Meṇḍakapañhopi mahāvaggo, yogikathāpañhoti duvidho. 
 
-^sc2
+	^sc2
 ^ck2 Bāhirakathā 
 ^z3 1. Pubbayogādi 
 ^m1 <b>Pubbayogo</b>ti tesaṁ pubbakammaṁ. 
@@ -590,7 +590,7 @@ mama ajja bhavissati;
 Jayo ca nāgasenassa, 
 yathā cittaṁ na saṇṭhitan”ti. 
 Bāhirakathā niṭṭhitā. 
-^sc3.1.1
+	^sc3.1.1
 ^z2 Mahāvagga 
 ^z3 1. Paññattipañha 
 ^m1 Atha kho milindo rājā yenāyasmā nāgaseno tenupasaṅkami,
@@ -742,7 +742,7 @@ hoti “satto”ti sammutī’”ti.
  yadi buddho tiṭṭheyya sādhukāraṁ dadeyya,
  sādhu sādhu, nāgasena, aticitrāni pañhapaṭibhānāni visajjitānī”ti. 
 ^m1 Paññattipañho paṭhamo. 
-^sc3.1.2
+	^sc3.1.2
 ^z2 Mahāvagga 
 ^z3 2. Vassagaṇanapañha 
 ^m1 “Kativassosi tvaṁ, bhante nāgasenā”ti? 
@@ -755,7 +755,7 @@ Atha kho āyasmā nāgaseno milindaṁ rājānaṁ etadavoca—
 “Evameva kho, mahārāja, vassānaṁ gaṇanā satta, na panāhaṁ satta, maṁ pana nissāya satta pavattati, chāyūpamaṁ, mahārājā”ti. 
 “Acchariyaṁ, bhante nāgasena, abbhutaṁ, bhante nāgasena, aticitrāni pañhapaṭibhānāni visajjitānī”ti. 
 ^m3 Vassagaṇanapañho dutiyo. 
-^sc3.1.3
+	^sc3.1.3
 ^z2 Mahāvagga 
 ^z3 3. Vīmaṁsanapañha 
 ^m1 Rājā āha—
@@ -785,7 +785,7 @@ Atha kho āyasmā nāgaseno milindaṁ rājānaṁ etadavoca—
 “Kiṁ pana, bhante, tayā visajjitan”ti? 
 “Kiṁ pana, mahārāja, tayā pucchitan”ti. 
 ^m3 Vīmaṁsanapañho tatiyo. 
-^sc3.1.4
+	^sc3.1.4
 ^z2 Mahāvagga 
 ^z3 4. Anantakāyapañha 
 ^m1 Atha kho milindassa rañño etadahosi—
@@ -843,7 +843,7 @@ Thero āha—
 
 Atha anantakāyo upāsakattaṁ paṭivedesīti. 
 ^m7 Anantakāyapañho catuttho. 
-^sc3.1.5
+	^sc3.1.5
 ^z2 Mahāvagga 
 ^z3 5. Pabbajjapañha 
 ^m1 Atha kho āyasmā nāgaseno yena milindassa rañño nivesanaṁ tenupasaṅkami, upasaṅkamitvā paññatte āsane nisīdi. 
@@ -875,7 +875,7 @@ Etadatthā, mahārāja, amhākaṁ pabbajjā, anupādā parinibbānaṁ kho pana
  svāhaṁ tehi sikkhāpito jānāmi ca passāmi ca ‘imassa nāmatthāya pabbajjā’”ti. 
 ^m6 “Kallosi, bhante nāgasenā”ti. 
 ^m7 Pabbajjapañho pañcamo. 
-^sc3.1.6
+	^sc3.1.6
 ^z2 Mahāvagga 
 ^z3 6. Paṭisandhipañha 
 ^m1 Rājā āha—
@@ -888,7 +888,7 @@ Thero āha—
 “Sace, mahārāja, saupādāno bhavissāmi paṭisandahissāmi, sace anupādāno bhavissāmi na paṭisandahissāmī”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Paṭisandhipañho chaṭṭho. 
-^sc3.1.7
+	^sc3.1.7
 ^z2 Mahāvagga 
 ^z3 7. Yonisomanasikārapañha 
 ^m1 Rājā āha—
@@ -899,7 +899,7 @@ Thero āha—
  imesaṁ kho, mahārāja, ajeḷakagoṇamahiṁsaoṭṭhagadrabhānampi manasikāro atthi, paññā pana tesaṁ natthī”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Yonisomanasikārapañho sattamo. 
-^sc3.1.8
+	^sc3.1.8
 ^z2 Mahāvagga 
 ^z3 8. Manasikāralakkhaṇapañha 
 ^m1 Rājā āha—
@@ -916,7 +916,7 @@ evameva kho, mahārāja, yogāvacaro manasikārena mānasaṁ gahetvā paññāy
  evaṁ kho, mahārāja, ūhanalakkhaṇo manasikāro, evaṁ chedanalakkhaṇā paññā”ti. 
 ^m4 “Kallosi, bhante nāgasenā”ti. 
 ^m5 Manasikāralakkhaṇapañho aṭṭhamo. 
-^sc3.1.9
+	^sc3.1.9
 ^z2 Mahāvagga 
 ^z3 9. Sīlalakkhaṇapañha 
 ^m1 Rājā āha—
@@ -958,7 +958,7 @@ Mukhañcidaṁ sabbajinānusāsane,
 Yo sīlakkhandho varapātimokkhiyo’”ti. 
 ^m8 “Kallosi, bhante nāgasenā”ti. 
 ^m9 Sīlalakkhaṇapañho navamo. 
-^sc3.1.10
+	^sc3.1.10
 ^z2 Mahāvagga 
 ^z3 10. Sampasādanalakkhaṇasaddhāpañha 
 ^m1 Rājā āha—
@@ -984,7 +984,7 @@ evameva kho, mahārāja, saddhā uppajjamānā nīvaraṇe vikkhambheti, vinīva
 Evaṁ kho, mahārāja, sampasādanalakkhaṇā saddhā”ti. 
 ^m4 “Kallosi, bhante nāgasenā”ti. 
 ^m5 Sampasādanalakkhaṇasaddhāpañho dasamo. 
-^sc3.1.11
+	^sc3.1.11
 ^z2 Mahāvagga 
 ^z3 11. Sampakkhandanalakkhaṇasaddhāpañha 
 ^m1 “Kathaṁ, bhante, sampakkhandanalakkhaṇā saddhā”ti? 
@@ -1009,7 +1009,7 @@ Vīriyena dukkhamacceti,
 paññāya parisujjhatī’”ti. 
 ^m4 “Kallosi, bhante nāgasenā”ti. 
 ^m5 Sampakkhandanalakkhaṇasaddhāpañho ekādasamo. 
-^sc3.1.12
+	^sc3.1.12
 ^z2 Mahāvagga 
 ^z3 12. Vīriyalakkhaṇapañha 
 ^m1 Rājā āha—
@@ -1028,7 +1028,7 @@ Sāvajjaṁ pajahati, anavajjaṁ bhāveti.
 Suddhamattānaṁ pariharatī’”ti. 
 ^m4 “Kallosi, bhante nāgasenā”ti. 
 ^m5 Vīriyalakkhaṇapañho dvādasamo. 
-^sc3.1.13
+	^sc3.1.13
 ^z2 Mahāvagga 
 ^z3 13. Satilakkhaṇapañha 
 ^m1 Rājā āha—
@@ -1075,7 +1075,7 @@ Bhāsitampetaṁ, mahārāja, bhagavatā—
 ‘satiñca khvāhaṁ, bhikkhave, sabbatthikaṁ vadāmī’”ti. 
 ^m5 “Kallosi, bhante nāgasenā”ti. 
 ^m6 Satilakkhaṇapañho terasamo. 
-^sc3.1.14
+	^sc3.1.14
 ^z2 Mahāvagga 
 ^z3 14. Samādhipañha 
 ^m1 Rājā āha—
@@ -1093,7 +1093,7 @@ Bhāsitampetaṁ, mahārāja, bhagavatā—
 ‘samādhiṁ, bhikkhave, bhāvetha, samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānātī’”ti. 
 ^m4 “Kallosi, bhante nāgasenā”ti. 
 ^m5 Samādhipañho cuddasamo. 
-^sc3.1.15
+	^sc3.1.15
 ^z2 Mahāvagga 
 ^z3 15. Paññālakkhaṇapañha 
 ^m1 Rājā āha—
@@ -1113,7 +1113,7 @@ Tato yogāvacaro ‘aniccan’ti vā ‘dukkhan’ti vā ‘anattā’ti vā sam
 Evaṁ kho, mahārāja, obhāsanalakkhaṇā paññā”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Paññālakkhaṇapañho pannarasamo. 
-^sc3.1.16
+	^sc3.1.16
 ^z2 Mahāvagga 
 ^z3 16. Nānādhammānaṁekakiccaabhinipphādanapañha 
 ^m1 Rājā āha—
@@ -1128,7 +1128,7 @@ evameva kho, mahārāja, ime dhammā nānā santā ekaṁ atthaṁ abhinipphāde
 ^m4 Nānādhammānaṁ ekakiccaabhinipphādanapañho soḷasamo. 
 ^m5 Mahāvaggo paṭhamo. 
 ^m6 Imasmiṁ vagge soḷasa pañhā. 
-^sc3.2.1
+	^sc3.2.1
 ^z2 Addhānavagga 
 ^z3 1. Dhammasantatipañha 
 ^m1 Rājā āha—
@@ -1169,7 +1169,7 @@ Thero āha—
  tena na ca so, na ca añño, purimaviññāṇe pacchimaviññāṇaṁ saṅgahaṁ gacchatī”ti. 
 ^m5 “Kallosi, bhante nāgasenā”ti. 
 ^m6 Dhammasantatipañho paṭhamo. 
-^sc3.2.2
+	^sc3.2.2
 ^z2 Addhānavagga 
 ^z3 2. Paṭisandahanapañha 
 ^m1 Rājā āha—
@@ -1187,7 +1187,7 @@ So aparena samayena neva kasseyya na vappeyya, yathāsambhatañca dhaññaṁ pa
 “Evameva kho, mahārāja, yo hetu yo paccayo paṭisandahanāya, tassa hetussa tassa paccayassa uparamā jānāti so ‘na paṭisandahissāmī’”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Paṭisandahanapañho dutiyo. 
-^sc3.2.3
+	^sc3.2.3
 ^z2 Addhānavagga 
 ^z3 3. Ñāṇapaññāpañha 
 ^m1 Rājā āha—
@@ -1250,7 +1250,7 @@ Yathā pañcahi kaṇḍehi parasenā bhijjati, evaṁ pañcindriyehi kilesā bh
 Evameva kho, mahārāja, paññā sakiccayaṁ katvā tattheva nirujjhati, yaṁ pana tāya paññāya kataṁ ‘aniccan’ti vā ‘dukkhan’ti vā ‘anattā’ti vā, taṁ na nirujjhatī”ti. 
 ^m8 “Kallosi, bhante nāgasenā”ti. 
 ^m9 Ñāṇapaññāpañho tatiyo. 
-^sc3.2.4
+	^sc3.2.4
 ^z2 Addhānavagga 
 ^z3 4. Paṭisandahanapuggalavediyanapañha 
 ^m1 Rājā āha—
@@ -1277,7 +1277,7 @@ Kālañca paṭikaṅkhāmi,
 sampajāno patissato’”ti. 
 ^m5 “Kallosi, bhante nāgasenā”ti. 
 ^m6 Paṭisandahanapuggalavediyanapañho catuttho. 
-^sc3.2.5
+	^sc3.2.5
 ^z2 Addhānavagga 
 ^z3 5. Vedanāpañha 
 ^m1 Rājā āha—
@@ -1308,7 +1308,7 @@ Tato thero abhidhammasaṁyuttāya kathāya rājānaṁ milindaṁ saññāpesi�
  tadekajjhaṁ abhisaññūhitvā abhisampiṇḍetvā aṭṭhasataṁ vedanā hontī”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Vedanāpañho pañcamo. 
-^sc3.2.6
+	^sc3.2.6
 ^z2 Addhānavagga 
 ^z3 6. Nāmarūpaekattanānattapañha 
 ^m1 Rājā āha—
@@ -1386,7 +1386,7 @@ So evaṁ vadeyya ‘ajānato te khīraṁ dadhibhūtan’ti
  tasmā na parimutto pāpakehi kammehī”ti. 
 ^m7 “Kallosi, bhante nāgasenā”ti. 
 ^m8 Nāmarūpaekattanānattapañho chaṭṭho. 
-^sc3.2.7
+	^sc3.2.7
 ^z2 Addhānavagga 
 ^z3 7. Therapaṭisandahanāpaṭisandahanapañha 
 ^m1 Rājā āha—
@@ -1403,7 +1403,7 @@ Kiṁ nu kho so, mahārāja, puriso yuttakārī bhaveyyā”ti?
  ‘sace saupādāno bhavissāmi, paṭisandahissāmi, sace anupādāno bhavissāmi, na paṭisandahissāmī’”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Therapaṭisandahanāpaṭisandahanapañho sattamo. 
-^sc3.2.8
+	^sc3.2.8
 ^z2 Addhānavagga 
 ^z3 8. Nāmarūpapaṭisandahanapañha 
 ^m1 Rājā āha—
@@ -1419,7 +1419,7 @@ evameva kho, mahārāja, yadi tattha nāmaṁ na bhaveyya, rūpampi na bhaveyya,
 Evametaṁ dīghamaddhānaṁ sandhāvitan”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Nāmarūpapaṭisandahanapañho aṭṭhamo. 
-^sc3.2.9
+	^sc3.2.9
 ^z2 Addhānavagga 
 ^z3 9. Addhānapañha 
 ^m1 Rājā āha—
@@ -1437,7 +1437,7 @@ Ye ca sattā parinibbutā, so ca addhā natthi parinibbutattā”ti.
 ^m3 Addhānapañho navamo. 
 ^m4 Addhānavaggo dutiyo. 
 ^m5 Imasmiṁ vagge nava pañhā. 
-^sc3.3.1
+	^sc3.3.1
 ^z2 Vicāravagga 
 ^z3 1. Addhānamūlapañha 
 ^m1 Rājā āha—
@@ -1457,7 +1457,7 @@ Avijjāpaccayā saṅkhārā,
 Evametassa kevalassa dukkhakkhandhassa addhānassa purimā koṭi na paññāyatī”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Addhānamūlapañho paṭhamo. 
-^sc3.3.2
+	^sc3.3.2
 ^z2 Vicāravagga 
 ^z3 2. Purimakoṭipañha 
 ^m1 Rājā āha—
@@ -1495,7 +1495,7 @@ Evametissā santatiyā atthi anto”ti?
 “Evameva kho, mahārāja, addhānassāpi purimā koṭi na paññāyatī”ti. 
 ^m5 “Kallosi, bhante nāgasenā”ti. 
 ^m6 Purimakoṭipañho dutiyo. 
-^sc3.3.3
+	^sc3.3.3
 ^z2 Vicāravagga 
 ^z3 3. Koṭipaññāyanapañha 
 ^m1 Rājā āha—
@@ -1517,7 +1517,7 @@ Evametissā santatiyā atthi anto”ti?
 Thero tassa rukkhūpamaṁ akās, “khandhā ca kevalassa dukkhakkhandhassa bījānī”ti. 
 ^m4 “Kallosi, bhante nāgasenā”ti. 
 ^m5 Koṭipaññāyanapañho tatiyo. 
-^sc3.3.4
+	^sc3.3.4
 ^z2 Vicāravagga 
 ^z3 4. Saṅkhārajāyamānapañha 
 ^m1 Rājā āha—
@@ -1540,7 +1540,7 @@ Cakkhusmiñca kho, mahārāja, asati rūpesu ca asati cakkhuviññāṇaṁ na h
  evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Saṅkhārajāyamānapañho catuttho. 
-^sc3.3.5
+	^sc3.3.5
 ^z2 Vicāravagga 
 ^z3 5. Bhavantasaṅkhārajāyamānapañha 
 ^m1 Rājā āha—
@@ -1584,7 +1584,7 @@ evameva kho, mahārāja, natthi keci saṅkhārā, ye abhavantā jāyanti, bhava
 “Evameva kho, mahārāja, natthi keci saṅkhārā, ye abhavantā jāyanti, bhavantāyeva kho saṅkhārā jāyantī”ti. 
 ^m9 “Kallosi, bhante nāgasenā”ti. 
 ^m1 Bhavantasaṅkhārajāyamānapañho pañcamo. 
-^sc3.3.6
+	^sc3.3.6
 ^z2 Vicāravagga 
 ^z3 6. Vedagūpañha 
 ^m1 Rājā āha—
@@ -1677,7 +1677,7 @@ manañca paṭicca dhamme ca uppajjati manoviññāṇaṁ,
  na hettha vedagū upalabbhatī”ti. 
 ^m8 “Kallosi, bhante nāgasenā”ti. 
 ^m9 Vedagūpañho chaṭṭho. 
-^sc3.3.7
+	^sc3.3.7
 ^z2 Vicāravagga 
 ^z3 7. Cakkhuviññāṇādipañha 
 ^m1 Rājā āha—
@@ -1746,7 +1746,7 @@ yattha ghānaviññāṇaṁ uppajjati …
 anālāpo tesaṁ aññamaññehi, samudācaritattā uppajjantī”ti. 
 “Kallosi, bhante nāgasenā”ti. 
 Cakkhuviññāṇādipañho sattamo. 
-^sc3.3.8
+	^sc3.3.8
 ^z2 Vicāravagga 
 ^z3 8. Phassalakkhaṇapañha 
 ^m1 Rājā āha—
@@ -1769,7 +1769,7 @@ Yathā dutiyo sammo, evaṁ rūpaṁ daṭṭhabbaṁ.
 Yathā tesaṁ sannipāto, evaṁ phasso daṭṭhabbo”ti. 
 ^m6 “Kallosi, bhante nāgasenā”ti. 
 ^m7 Phassalakkhaṇapañho aṭṭhamo. 
-^sc3.3.9
+	^sc3.3.9
 ^z2 Vicāravagga 
 ^z3 9. Vedanālakkhaṇapañha 
 ^m1 “Bhante nāgasena, kiṁlakkhaṇā vedanā”ti? 
@@ -1784,7 +1784,7 @@ Yathā tesaṁ sannipāto, evaṁ phasso daṭṭhabbo”ti.
 Evaṁ kho, mahārāja, vedayitalakkhaṇā vedanā anubhavanalakkhaṇā cā”ti. 
 ^m4 “Kallosi, bhante nāgasenā”ti. 
 ^m5 Vedanālakkhaṇapañho navamo. 
-^sc3.3.10
+	^sc3.3.10
 ^z2 Vicāravagga 
 ^z3 10. Saññālakkhaṇapañha 
 ^m1 “Bhante nāgasena, kiṁlakkhaṇā saññā”ti? 
@@ -1797,7 +1797,7 @@ Evaṁ kho, mahārāja, sañjānanalakkhaṇā saññā”ti.
 Evaṁ kho, mahārāja, sañjānanalakkhaṇā saññā”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Saññālakkhaṇapañho dasamo. 
-^sc3.3.11
+	^sc3.3.11
 ^z2 Vicāravagga 
 ^z3 11. Cetanālakkhaṇapañha 
 ^m1 “Bhante nāgasena, kiṁlakkhaṇā cetanā”ti? 
@@ -1814,7 +1814,7 @@ Yepi tassa anusikkhanti, tepi kāyassa bhedā paraṁ maraṇā sugatiṁ sagga�
 Evaṁ kho, mahārāja, cetayitalakkhaṇā cetanā abhisaṅkharaṇalakkhaṇā cā”ti. 
 ^m4 “Kallosi, bhante nāgasenā”ti. 
 ^m5 Cetanālakkhaṇapañho ekādasamo. 
-^sc3.3.12
+	^sc3.3.12
 ^z2 Vicāravagga 
 ^z3 12. Viññāṇalakkhaṇapañha 
 ^m1 “Bhante nāgasena, kiṁlakkhaṇaṁ viññāṇan”ti? 
@@ -1831,7 +1831,7 @@ Yañca kāyena phoṭṭhabbaṁ phusati, taṁ viññāṇena vijānāti,
 Evaṁ kho, mahārāja, vijānanalakkhaṇaṁ viññāṇan”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Viññāṇalakkhaṇapañho dvādasamo. 
-^sc3.3.13
+	^sc3.3.13
 ^z2 Vicāravagga 
 ^z3 13. Vitakkalakkhaṇapañha 
 ^m1 “Bhante nāgasena, kiṁlakkhaṇo vitakko”ti? 
@@ -1841,7 +1841,7 @@ Evaṁ kho, mahārāja, vijānanalakkhaṇaṁ viññāṇan”ti.
 evameva kho, mahārāja, appanālakkhaṇo vitakko”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Vitakkalakkhaṇapañho terasamo. 
-^sc3.3.14
+	^sc3.3.14
 ^z2 Vicāravagga 
 ^z3 14. Vicāralakkhaṇapañha 
 ^m1 “Bhante nāgasena, kiṁlakkhaṇo vicāro”ti? 
@@ -1854,7 +1854,7 @@ Yathā anuravanā, evaṁ vicāro daṭṭhabbo”ti.
 ^m4 Vicāralakkhaṇapañho cuddasamo. 
 ^m5 Vicāravaggo tatiyo. 
 ^m6 Imasmiṁ vagge cuddasa pañhā. 
-^sc3.4.1
+	^sc3.4.1
 ^z2 Nibbānavagga 
 ^z3 1. Phassādivinibbhujanapañha 
 ^m1 Rājā āha—
@@ -1872,7 +1872,7 @@ Sakkā nu kho, mahārāja, tesaṁ rasānaṁ ekatobhāvagatānaṁ vinibbhujitv
 “Evameva kho, mahārāja, na sakkā imesaṁ dhammānaṁ ekatobhāvagatānaṁ vinibbhujitvā vinibbhujitvā nānākaraṇaṁ paññāpetuṁ ‘ayaṁ phasso, ayaṁ vedanā, ayaṁ saññā, ayaṁ cetanā, idaṁ viññāṇaṁ, ayaṁ vitakko, ayaṁ vicāro’ti, api ca kho pana sakena sakena lakkhaṇena upaṭṭhahantī”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Phassādivinibbhujanapañho paṭhamo. 
-^sc3.4.2
+	^sc3.4.2
 ^z2 Nibbānavagga 
 ^z3 2. Nāgasenapañha 
 ^m1 Thero āha—
@@ -1892,7 +1892,7 @@ Sakkā pana, mahārāja, loṇaṁ tulāya tulayitun”ti?
 “Na sakkā, mahārāja, loṇaṁ tulāya tulayituṁ, garubhāvo tulāya tuliyatī”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Nāgasenapañho dutiyo. 
-^sc3.4.3
+	^sc3.4.3
 ^z2 Nibbānavagga 
 ^z3 3. Pañcāyatanakammanibbattapañha 
 ^m1 Rājā āha—
@@ -1904,7 +1904,7 @@ Sakkā pana, mahārāja, loṇaṁ tulāya tulayitun”ti?
 “Evameva kho, mahārāja, yāni yāni pañcāyatanāni, tāni tāni nānākammehi nibbattāni, na ekena kammenā”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Pañcāyatanakammanibbattapañho tatiyo. 
-^sc3.4.4
+	^sc3.4.4
 ^z2 Nibbānavagga 
 ^z3 4. Kammanānākaraṇapañha 
 ^m1 Rājā āha—
@@ -1922,7 +1922,7 @@ Bhāsitampetaṁ, mahārāja, bhagavatā—
  kammaṁ satte vibhajati yadidaṁ hīnappaṇītatāyā’”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Kammanānākaraṇapañho catuttho. 
-^sc3.4.5
+	^sc3.4.5
 ^z2 Nibbānavagga 
 ^z3 5. Vāyāmakaraṇapañha 
 ^m1 Rājā āha—
@@ -1961,7 +1961,7 @@ Mando maccu mukhaṁ patto,
 akkhacchinnova jhāyatī’”ti. 
 ^m8 “Kallosi, bhante nāgasenā”ti. 
 ^m9 Vāyāmakaraṇapañho pañcamo. 
-^sc3.4.6
+	^sc3.4.6
 ^z2 Nibbānavagga 
 ^z3 6. Nerayikaggiuṇhabhāvapañha 
 ^m1 Rājā āha—
@@ -2008,7 +2008,7 @@ Bhāsitampetaṁ, mahārāja, bhagavatā—
 ‘so na tāva kālaṁ karoti, yāva na taṁ pāpakammaṁ byantīhotī’”ti. 
 ^m5 “Kallosi, bhante nāgasenā”ti. 
 ^m6 Nerayikaggiuṇhabhāvapañho chaṭṭho. 
-^sc3.4.7
+	^sc3.4.7
 ^z2 Nibbānavagga 
 ^z3 7. Pathavisandhārakapañha 
 ^m1 Rājā āha—
@@ -2018,7 +2018,7 @@ Thero dhammakarakena udakaṁ gahetvā rājānaṁ milindaṁ saññāpesi—
 “yathā, mahārāja, imaṁ udakaṁ vātena ādhāritaṁ, evaṁ tampi udakaṁ vātena ādhāritan”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Pathavisandhārakapañho sattamo. 
-^sc3.4.8
+	^sc3.4.8
 ^z2 Nibbānavagga 
 ^z3 8. Nirodhanibbānapañha 
 ^m1 Rājā āha—
@@ -2034,7 +2034,7 @@ Sutavā ca kho, mahārāja, ariyasāvako ajjhattikabāhire āyatane nābhinandat
  evaṁ kho, mahārāja, nirodho nibbānan”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Nirodhanibbānapañho aṭṭhamo. 
-^sc3.4.9
+	^sc3.4.9
 ^z2 Nibbānavagga 
 ^z3 9. Nibbānalabhanapañha 
 ^m1 Rājā āha—
@@ -2047,7 +2047,7 @@ Sutavā ca kho, mahārāja, ariyasāvako ajjhattikabāhire āyatane nābhinandat
  sacchikātabbe dhamme sacchikaroti, so labhati nibbānan”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Nibbānalabhanapañho navamo. 
-^sc3.4.10
+	^sc3.4.10
 ^z2 Nibbānavagga 
 ^z3 10. Nibbānasukhajānanapañha 
 ^m1 Rājā āha—
@@ -2063,7 +2063,7 @@ Sutavā ca kho, mahārāja, ariyasāvako ajjhattikabāhire āyatane nābhinandat
 ^m3 Nibbānasukhajānanapañho dasamo. 
 ^m4 Nibbānavaggo catuttho. 
 ^m5 Imasmiṁ vagge dasa pañhā. 
-^sc3.5.1
+	^sc3.5.1
 ^z2 Buddhavagga 
 ^z3 1. Buddhassaatthinatthibhāvapañha 
 ^m1 Rājā āha—
@@ -2081,7 +2081,7 @@ Sutavā ca kho, mahārāja, ariyasāvako ajjhattikabāhire āyatane nābhinandat
 “Evameva kho, mahārāja, kiñcāpi mayā bhagavā na diṭṭho, ācariyehipi me bhagavā na diṭṭho, api ca atthi bhagavā”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Buddhassa atthinatthibhāvapañho paṭhamo. 
-^sc3.5.2
+	^sc3.5.2
 ^z2 Buddhavagga 
 ^z3 2. Buddhassaanuttarabhāvapañha 
 ^m1 Rājā āha—
@@ -2095,7 +2095,7 @@ gaṅgā yamunā aciravatī sarabhū mahī, neva tassa ūnattaṁ vā pūratta�
 “Evameva kho, mahārāja, sāvake mahante parinibbute passitvā jānāmi ‘bhagavā anuttaro’”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Buddhassa anuttarabhāvapañho dutiyo. 
-^sc3.5.3
+	^sc3.5.3
 ^z2 Buddhavagga 
 ^z3 3. Buddhassaanuttarabhāvajānanapañha 
 ^m1 Rājā āha—
@@ -2107,7 +2107,7 @@ gaṅgā yamunā aciravatī sarabhū mahī, neva tassa ūnattaṁ vā pūratta�
 “Evameva kho, mahārāja, yo dhammaṁ passati, so bhagavantaṁ passati, dhammo hi, mahārāja, bhagavatā desito”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Buddhassa anuttarabhāvajānanapañho tatiyo. 
-^sc3.5.4
+	^sc3.5.4
 ^z2 Buddhavagga 
 ^z3 4. Dhammadiṭṭhapañha 
 ^m1 Rājā āha—
@@ -2115,7 +2115,7 @@ gaṅgā yamunā aciravatī sarabhū mahī, neva tassa ūnattaṁ vā pūratta�
 “Buddhanettiyā kho, mahārāja, buddhapaññattiyā yāvajīvaṁ sāvakehi vattitabban”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Dhammadiṭṭhapañho catuttho. 
-^sc3.5.5
+	^sc3.5.5
 ^z2 Buddhavagga 
 ^z3 5. Asaṅkamanapaṭisandahanapañha 
 ^m1 Rājā āha—
@@ -2135,7 +2135,7 @@ gaṅgā yamunā aciravatī sarabhū mahī, neva tassa ūnattaṁ vā pūratta�
 “Evameva kho, mahārāja, na ca saṅkamati paṭisandahati cā”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Asaṅkamanapaṭisandahanapañho pañcamo. 
-^sc3.5.6
+	^sc3.5.6
 ^z2 Buddhavagga 
 ^z3 6. Vedagūpañha 
 ^m1 Rājā āha—
@@ -2144,7 +2144,7 @@ Thero āha—
 “paramatthena kho, mahārāja, vedagū nupalabbhatī”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Vedagūpañho chaṭṭho. 
-^sc3.5.7
+	^sc3.5.7
 ^z2 Buddhavagga 
 ^z3 7. Aññakāyasaṅkamanapañha 
 ^m1 Rājā āha—
@@ -2162,7 +2162,7 @@ Thero āha—
  tasmā na parimutto pāpakehi kammehī”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Aññakāyasaṅkamanapañho sattamo. 
-^sc3.5.8
+	^sc3.5.8
 ^z2 Buddhavagga 
 ^z3 8. Kammaphalaatthibhāvapañha 
 ^m1 Rājā āha—
@@ -2176,7 +2176,7 @@ Thero āha—
 “Evameva kho, mahārāja, abbocchinnāya santatiyā na sakkā tāni kammāni dassetuṁ ‘idha vā idha vā tāni kammāni tiṭṭhantī’”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Kammaphalaatthibhāvapañho aṭṭhamo. 
-^sc3.5.9
+	^sc3.5.9
 ^z2 Buddhavagga 
 ^z3 9. Uppajjatijānanapañha 
 ^m1 Rājā āha—
@@ -2188,7 +2188,7 @@ Thero āha—
 “Evameva kho, mahārāja, yo uppajjati, jānāti so ‘uppajjissāmī’”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Uppajjatijānanapañho navamo. 
-^sc3.5.10
+	^sc3.5.10
 ^z2 Buddhavagga 
 ^z3 10. Buddhanidassanapañha 
 ^m1 Rājā āha—
@@ -2207,7 +2207,7 @@ Dhammo hi, mahārāja, bhagavatā desito”ti.
 ^m4 Buddhanidassanapañho dasamo. 
 ^m5 Buddhavaggo pañcamo. 
 ^m6 Imasmiṁ vagge dasa pañhā. 
-^sc3.6.1
+	^sc3.6.1
 ^z2 Sativagga 
 ^z3 1. Kāyapiyāyanapañha 
 ^m1 Rājā āha—
@@ -2230,7 +2230,7 @@ Samantato paggharati,
 asucipūtigandhiyo’”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Kāyapiyāyanapañho paṭhamo. 
-^sc3.6.2
+	^sc3.6.2
 ^z2 Sativagga 
 ^z3 2. Sabbaññūbhāvapañha 
 ^m1 Rājā āha—
@@ -2245,7 +2245,7 @@ asucipūtigandhiyo’”ti.
  sampatte kāle sāvakānaṁ sikkhāpadaṁ paññāpeti yāvajīvaṁ anatikkamanīyan”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Sabbaññūbhāvapañho dutiyo. 
-^sc3.6.3
+	^sc3.6.3
 ^z2 Sativagga 
 ^z3 3. Mahāpurisalakkhaṇapañha 
 ^m1 Rājā āha—
@@ -2276,7 +2276,7 @@ Thero āha—
  suvaṇṇavaṇṇā kañcanasannibhattacā byāmappabhā”ti. 
 ^m4 “Kallosi, bhante nāgasenā”ti. 
 ^m5 Mahāpurisalakkhaṇapañho tatiyo. 
-^sc3.6.4
+	^sc3.6.4
 ^z2 Sativagga 
 ^z3 4. Bhagavatobrahmacāripañha 
 ^m1 Rājā āha—
@@ -2295,7 +2295,7 @@ Thero āha—
 “Tena hi, mahārāja, brahmā bhagavato sisso”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Bhagavato brahmacāripañho catuttho. 
-^sc3.6.5
+	^sc3.6.5
 ^z2 Sativagga 
 ^z3 5. Bhagavatoupasampadāpañha 
 ^m1 Rājā āha—
@@ -2350,7 +2350,7 @@ Thero āha—
 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Bhagavato upasampadāpañho pañcamo. 
-^sc3.6.6
+	^sc3.6.6
 ^z2 Sativagga 
 ^z3 6. Assubhesajjābhesajjapañha 
 ^m1 Rājā āha—
@@ -2361,7 +2361,7 @@ Thero āha—
 Yaṁ kho, mahārāja, sītalaṁ, taṁ bhesajjaṁ, yaṁ uṇhaṁ, taṁ na bhesajjan”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Assubhesajjābhesajjapañho chaṭṭho. 
-^sc3.6.7
+	^sc3.6.7
 ^z2 Sativagga 
 ^z3 7. Sarāgavītarāganānākaraṇapañha 
 ^m1 Rājā āha—
@@ -2374,7 +2374,7 @@ Yaṁ kho, mahārāja, sītalaṁ, taṁ bhesajjaṁ, yaṁ uṇhaṁ, taṁ na 
  vītarāgo pana rasapaṭisaṁvedī bhojanaṁ bhuñjati, no ca kho rasarāgapaṭisaṁvedī”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Sarāgavītarāganānākaraṇapañho sattamo. 
-^sc3.6.8
+	^sc3.6.8
 ^z2 Sativagga 
 ^z3 8. Paññāpatiṭṭhānapañha 
 ^m1 Rājā āha—
@@ -2386,7 +2386,7 @@ Yaṁ kho, mahārāja, sītalaṁ, taṁ bhesajjaṁ, yaṁ uṇhaṁ, taṁ na 
 “Tena hi, mahārāja, natthi vāto”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Paññāpatiṭṭhānapañho aṭṭhamo. 
-^sc3.6.9
+	^sc3.6.9
 ^z2 Sativagga 
 ^z3 9. Saṁsārapañha 
 ^m1 Rājā āha—
@@ -2403,7 +2403,7 @@ evameva kho, mahārāja, idha jāto idheva marati, idha mato aññatra uppajjati
 evaṁ kho, mahārāja, saṁsāro hotī”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Saṁsārapañho navamo. 
-^sc3.6.10
+	^sc3.6.10
 ^z2 Sativagga 
 ^z3 10. Cirakatasaraṇapañha 
 ^m1 Rājā āha—
@@ -2418,7 +2418,7 @@ evaṁ kho, mahārāja, saṁsāro hotī”ti.
 ‘cittena sarati, no satiyā’”ti? 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Cirakatasaraṇapañho dasamo. 
-^sc3.6.11
+	^sc3.6.11
 ^z2 Sativagga 
 ^z3 11. Abhijānantasatipañha 
 ^m1 Rājā āha—
@@ -2431,7 +2431,7 @@ evaṁ kho, mahārāja, saṁsāro hotī”ti.
 ^m3 Abhijānantasatipañho ekādasamo. 
 ^m4 Sativaggo chaṭṭho. 
 ^m5 Imasmiṁ vagge ekādasa pañhā. 
-^sc3.7.1
+	^sc3.7.1
 ^z2 Arūpadhammavavatthānavagga 
 ^z3 1. Satiuppajjanapañha 
 ^m1 Rājā āha—
@@ -2516,7 +2516,7 @@ Diṭṭhattā rūpaṁ sarati,
 Imehi kho, mahārāja, sattarasahākārehi sati uppajjatī”ti. 
 “Kallosi, bhante nāgasenā”ti. 
 ^m2 Satiuppajjanapañho paṭhamo. 
-^sc3.7.2
+	^sc3.7.2
 ^z2 Arūpadhammavavatthānavagga 
 ^z3 2. Buddhaguṇasatipaṭilābhapañha 
 ^m1 Rājā āha—
@@ -2542,7 +2542,7 @@ Imehi kho, mahārāja, sattarasahākārehi sati uppajjatī”ti.
 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Buddhaguṇasatipaṭilābhapañho dutiyo. 
-^sc3.7.3
+	^sc3.7.3
 ^z2 Arūpadhammavavatthānavagga 
 ^z3 3. Dukkhappahānavāyamapañha 
 ^m1 Rājā āha—
@@ -2587,7 +2587,7 @@ Thero āha—
 “Tumhe kho, mahārāja, atipaṇḍitā, ye tumhe asantānaṁ anāgatānaṁ bubhukkhānaṁ paṭibāhanatthāya paṭiyādethā”ti. 
 ^m5 “Kallosi, bhante nāgasenā”ti. 
 ^m6 Dukkhappahānavāyamapañho tatiyo. 
-^sc3.7.4
+	^sc3.7.4
 ^z2 Arūpadhammavavatthānavagga 
 ^z3 4. Brahmalokapañha 
 ^m1 Rājā āha—
@@ -2607,7 +2607,7 @@ evameva iddhimā bhikkhu cetovasippatto jambudīpe antarahito brahmaloke pātubh
 “Lahuṁ kho tvaṁ, mahārāja, gatosi dvimattāni yojanasatānī”ti. 
 ^m4 “Kallosi, bhante nāgasenā”ti. 
 ^m5 Brahmalokapañho catuttho. 
-^sc3.7.5
+	^sc3.7.5
 ^z2 Arūpadhammavavatthānavagga 
 ^z3 5. Dvinnaṁlokuppannānaṁsamakabhāvapañha 
 ^m1 Rājā āha—
@@ -2643,7 +2643,7 @@ evameva iddhimā bhikkhu cetovasippatto jambudīpe antarahito brahmaloke pātubh
 
 ^m4 “Kallosi, bhante nāgasenā”ti. 
 ^m5 Dvinnaṁ lokuppannānaṁ samakabhāvapañho pañcamo. 
-^sc3.7.6
+	^sc3.7.6
 ^z2 Arūpadhammavavatthānavagga 
 ^z3 6. Bojjhaṅgapañha 
 ^m1 Rājā āha—
@@ -2659,7 +2659,7 @@ evameva iddhimā bhikkhu cetovasippatto jambudīpe antarahito brahmaloke pātubh
 “Evameva kho, mahārāja, dhammavicayasambojjhaṅgena vinā chahi bojjhaṅgehi na bujjhatī”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Bojjhaṅgapañho chaṭṭho. 
-^sc3.7.7
+	^sc3.7.7
 ^z2 Arūpadhammavavatthānavagga 
 ^z3 7. Pāpapuññānaṁ appānappabhāvapañha 
 ^m1 Rājā āha—
@@ -2680,7 +2680,7 @@ Puriso kho, mahārāja, chinnahatthapādo bhagavato ekaṁ uppalahatthaṁ datv�
 Imināpi, mahārāja, kāraṇena bhaṇāmi ‘puññaṁ bahutaraṁ, apuññaṁ thokan’”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Pāpapuññānaṁ appānappabhāvapañho sattamo. 
-^sc3.7.8
+	^sc3.7.8
 ^z2 Arūpadhammavavatthānavagga 
 ^z3 8. Jānantājānantapāpakaraṇapañha 
 ^m1 Rājā āha—
@@ -2693,7 +2693,7 @@ Thero āha ^errorpunc
 “Evameva kho, mahārāja, yo ajānanto pāpakammaṁ karoti, tassa bahutaraṁ apuññan”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Jānantājānantapāpakaraṇapañho aṭṭhamo. 
-^sc3.7.9
+	^sc3.7.9
 ^z2 Arūpadhammavavatthānavagga 
 ^z3 9. Uttarakurukādigamanapañha 
 ^m1 Rājā āha—
@@ -2708,7 +2708,7 @@ Thero āha ^errorpunc
 “Evameva kho, mahārāja, iddhimā bhikkhu cetovasippatto kāyaṁ citte samāropetvā cittavasena vehāsaṁ gacchatī”ti. 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Uttarakurukādigamanapañho navamo. 
-^sc3.7.10
+	^sc3.7.10
 ^z2 Arūpadhammavavatthānavagga 
 ^z3 10. Dīghaṭṭhipañha 
 ^m1 Rājā āha—
@@ -2720,7 +2720,7 @@ Thero āha ^errorpunc
 “Nanu, mahārāja, pañcayojanasatikassa macchassa aṭṭhikāni dīghāni bhavissanti yojanasatikānipī”ti? 
 ^m3 “Kallosi, bhante nāgasenā”ti. 
 ^m4 Dīghaṭṭhipañho dasamo. 
-^sc3.7.11
+	^sc3.7.11
 ^z2 Arūpadhammavavatthānavagga 
 ^z3 11. Assāsapassāsanirodhapañha 
 ^m1 Rājā āha—
@@ -2736,7 +2736,7 @@ Thero āha ^errorpunc
  kiṁ pana bhāvitakāyassa bhāvitasīlassa bhāvitacittassa bhāvitapaññassa catutthajjhānaṁ samāpannassa assāsapassāsā na nirujjhissantī”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Assāsapassāsanirodhapañho ekādasamo. 
-^sc3.7.12
+	^sc3.7.12
 ^z2 Arūpadhammavavatthānavagga 
 ^z3 12. Samuddapañha 
 ^m1 Rājā āha—
@@ -2748,7 +2748,7 @@ attakaṁ loṇaṁ, tattakaṁ udakaṁ.
 Tasmā ‘samuddo’ti vuccatī”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Samuddapañho dvādasamo. 
-^sc3.7.13
+	^sc3.7.13
 ^z2 Arūpadhammavavatthānavagga 
 ^z3 13. Samuddaekarasapañha 
 ^m1 Rājā āha—
@@ -2756,7 +2756,7 @@ Tasmā ‘samuddo’ti vuccatī”ti.
 “Cirasaṇṭhitattā kho, mahārāja, udakassa samuddo ekaraso loṇaraso”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Samuddaekarasapañho terasamo. 
-^sc3.7.14
+	^sc3.7.14
 ^z2 Arūpadhammavavatthānavagga 
 ^z3 14. Sukhumapañha 
 ^m1 Rājā āha—
@@ -2769,7 +2769,7 @@ Yaṁ kiñci chinditabbaṁ, sabbaṁ taṁ paññāya chindati,
  natthi dutiyaṁ paññāya chedanan”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Sukhumapañho cuddasamo. 
-^sc3.7.15
+	^sc3.7.15
 ^z2 Arūpadhammavavatthānavagga 
 ^z3 15. Viññāṇanānatthapañha 
 ^m1 Rājā āha—
@@ -2786,7 +2786,7 @@ Thero āha—
 “Tena hi, mahārāja, bhūtasmiṁ jīvo nupalabbhatī”ti. 
 ^m2 “Kallosi, bhante nāgasenā”ti. 
 ^m3 Viññāṇanānatthapañho pannarasamo. 
-^sc3.7.16
+	^sc3.7.16
 ^z2 Arūpadhammavavatthānavagga 
 ^z3 16. Arūpadhammavavatthānadukkarapañha 
 ^m1 Rājā āha—
@@ -2807,7 +2807,7 @@ Thero āha—
 ^m3 Arūpadhammavavatthānadukkarapañho soḷasamo. 
 ^m4 Arūpadhammavavatthānavaggo sattamo. 
 ^m5 Imasmiṁ vagge soḷasa pañhā. 
-^sc3.8
+	^sc3.8
 ^z2 8. Milindapañhapucchāvisajjanā 
 ^m1 Thero āha—
 “jānāsi kho, mahārāja, sampati kā velā”ti? 
@@ -2851,7 +2851,7 @@ Tassa mayhaṁ, mahārāja, taṁ rattāvasesaṁ etadahosi—
  ‘sabbaṁ milindena raññā supucchitaṁ, sabbaṁ mayā suvisajjitan’”ti
  itiha te mahānāgā aññamaññassa subhāsitaṁ samanumodiṁsūti. 
 ^m7 Milindapañhapucchāvisajjanā niṭṭhitā. 
-^sc4.1
+	^sc4.1
 ^z2 Meṇḍakapañhārambhakathā 
 ^z3 Upāsakaguṇavagga 
 ^z4 1. Aṭṭhamantaparivajjanīyaṭṭhāna 
@@ -2920,7 +2920,7 @@ Paṭicchannaṁ devanissitaṁ;
 Pantho ca saṅgāmo titthaṁ, 
 Aṭṭhete parivajjiyā’”ti. 
 Aṭṭha mantanassa parivajjanīyaṭṭhānāni. 
-^sc4.2
+	^sc4.2
 ^z2 Meṇḍakapañhārambhakathā 
 ^z3 Upāsakaguṇavagga 
 ^z4 2. Aṭṭhamantavināsakapuggala 
@@ -2944,7 +2944,7 @@ mānī luddho tathālaso;
 Ekacintī ca bālo ca, 
 ete atthavināsakā’”ti. 
 ^m4 Aṭṭha mantavināsakapuggalā. 
-^sc4.3
+	^sc4.3
 ^z2 Meṇḍakapañhārambhakathā 
 ^z3 Upāsakaguṇavagga 
 ^z4 3. Navaguyhamantavidhaṁsaka 
@@ -2972,7 +2972,7 @@ ittarā calitā calā;
 Etehi mantitaṁ guyhaṁ, 
 khippaṁ bhavati pākaṭan’”ti. 
 ^m5 Nava guyhamantavidhaṁsakā puggalā. 
-^sc4.4
+	^sc4.4
 ^z2 Meṇḍakapañhārambhakathā 
 ^z3 Upāsakaguṇavagga 
 ^z4 4. Aṭṭhapaññāpaṭilābhakāraṇa 
@@ -2996,7 +2996,7 @@ buddhivisadakāraṇā;
 Yesaṁ etāni sambhonti, 
 tesaṁ buddhi pabhijjatī’”ti. 
 ^m4 Aṭṭha paññāpaṭilābhakāraṇāni. 
-^sc4.5
+	^sc4.5
 ^z2 Meṇḍakapañhārambhakathā 
 ^z3 Upāsakaguṇavagga 
 ^z4 5. Ācariyaguṇa 
@@ -3035,7 +3035,7 @@ Ime kho, bhante, pañcavīsati ācariyassa ācariyaguṇā,
  anāgate addhāne tattha viggaho uppajjissati,
  anāgate ca addhāne dullabhā bhavissanti tumhādisā buddhimanto,
  tesu me pañhesu cakkhuṁ dehi paravādānaṁ niggahāyā”ti. 
-^sc4.6
+	^sc4.6
 ^z2 Meṇḍakapañhārambhakathā 
 ^z3 Upāsakaguṇavagga 
 ^z4 6. Upāsakaguṇa 
@@ -3054,7 +3054,7 @@ Ime kho, mahārāja, dasa upāsakassa upāsakaguṇā,
  taṁ te yuttaṁ pattaṁ anucchavikaṁ patirūpaṁ yaṁ tvaṁ jinasāsanaparihāniṁ disvā abhivaḍḍhiṁ icchasi,
  karomi te okāsaṁ, puccha maṁ tvaṁ yathāsukhan”ti. 
 ^m2 Meṇḍakapañhārambhakathā niṭṭhitā. 
-^sc5.1.1
+	^sc5.1.1
 ^z2 Meṇḍakapañha 
 ^z3 Iddhibalavagga 
 ^z4 1. Katādhikārasaphalapañha 
@@ -3195,7 +3195,7 @@ Sutametaṁ, bhante, ime pañca janā mahāpathaviṁ paviṭṭhā”ti.
  guyhaṁ vidaṁsitaṁ, gaṇṭhi bhinno, gahanaṁ agahanaṁ kataṁ,
  naṭṭhā paravādā, bhaggā kudiṭṭhī, nippabhā jātā kutitthiyā, tvaṁ gaṇivarapavaramāsajjā”ti. 
 Katādhikārasaphalapañho paṭhamo. 
-^sc5.1.2
+	^sc5.1.2
 ^z2 Meṇḍakapañha 
 ^z3 Iddhibalavagga 
 ^z4 2 Sabbaññubhāvapañha 
@@ -3327,7 +3327,7 @@ Yathā, mahārāja, cakkavattī rājā yadā cakkaratanaṁ sarati ‘upetu me c
 evameva kho, mahārāja, tathāgato āvajjetvā āvajjetvā yadicchakaṁ jānātī”ti. 
 “Daḷhaṁ, bhante nāgasena, kāraṇaṁ, buddho sabbaññū, sampaṭicchāma buddho sabbaññū”ti. 
 Buddhasabbaññubhāvapañho dutiyo. 
-^sc5.1.3
+	^sc5.1.3
 ^z2 Meṇḍakapañha 
 ^z3 Iddhibalavagga 
 ^z4 3. Devadattapabbajjapañha 
@@ -3454,7 +3454,7 @@ Sace, mahārāja, bhagavā devadattaṁ na pabbājeyya, kappakoṭisatasahassamp
  visamagataṁ devadattaṁ tathāgato samaṁ āropesi. 
 Ime ca, bhante nāgasena, hetū imāni ca kāraṇāni na sakkā aññena sandassetuṁ aññatra tavādisena buddhimatā”ti. 
 Devadattapabbajjapañho tatiyo. 
-^sc5.1.4
+	^sc5.1.4
 ^z2 Meṇḍakapañha 
 ^z3 Iddhibalavagga 
 ^z4 4. Pathavicalanapañha 
@@ -3591,7 +3591,7 @@ Evameva kho, mahārāja, yaṁ kiñci mahiyā dānaṁ vijjati api asadisadāna�
  bodhisattānaṁ, bhante nāgasena, parakkamo dakkhāpito, pāramī ca jinānaṁ bhiyyo obhāsitā, cariyaṁ caratopi tāva tathāgatassa sadevake loke seṭṭhabhāvo anudassito. 
 Sādhu, bhante nāgasena, thomitaṁ jinasāsanaṁ, jotitā jinapāramī, chinno titthiyānaṁ vādagaṇṭhi, bhinno parāpavādakumbho, pañho gambhīro uttānīkato, gahanaṁ agahanaṁ kataṁ, sammā laddhaṁ jinaputtānaṁ nibbāhanaṁ, evametaṁ, gaṇivarapavara, tathā sampaṭicchāmā”ti. 
 Pathavicalanapañho catuttho. 
-^sc5.1.5^z2 Meṇḍakapañha 
+	^sc5.1.5^z2 Meṇḍakapañha 
 ^z3 Iddhibalavagga 
 ^z4 5. Sivirājacakkhudānapañha 
 ^m1 “Bhante nāgasena, tumhe evaṁ bhaṇatha—
@@ -3666,7 +3666,7 @@ Taṁ bhāvanāmayaṁ cakkhuṁ sandhāya vuttaṁ,
 “Sādhu, bhante nāgasena, sunibbeṭhito pañho, suniddiṭṭho niggaho, sumadditā paravādā,
  evametaṁ tathā sampaṭicchāmī”ti. 
 Sivirājacakkhudānapañho pañcamo. 
-^sc5.1.6
+	^sc5.1.6
 ^z2 Meṇḍakapañha 
 ^z3 Iddhibalavagga 
 ^z4 6. Gabbhāvakkantipañha 
@@ -3719,7 +3719,7 @@ Sampaṭicchasi pana, tvaṁ, mahārāja, therassa kumārakassapassa gabbhāvakk
 “Sādhu, mahārāja, paccāgatosi mama visayaṁ,
  ekavidhenapi gabbhāvakkantiṁ kathayanto mamānubalaṁ bhavissasi,
  atha yā pana tā dve migadhenuyo passāvaṁ pivitvā gabbhaṁ paṭilabhiṁsu, tāsaṁ tvaṁ saddahasi gabbhassāvakkamanan”ti? 
-
+Gabbhāvakkantipañha2 	
 
 
 
@@ -3855,7 +3855,7 @@ Sāmo kumāro mahāpanādo kusarājā, tayopete bodhisattā”ti.
 “Suniddiṭṭhā, bhante nāgasena, gabbhāvakkanti, sukathitaṁ kāraṇaṁ, andhakāro āloko kato, jaṭā vijaṭitā, nicchuddhā paravādā,
  evametaṁ tathā sampaṭicchāmī”ti. 
 Gabbhāvakkantipañho chaṭṭho. 
-^sc5.1.7
+	^sc5.1.7
 ^z2 Meṇḍakapañha 
 ^z3 Iddhibalavagga 
 ^z4 7. Saddhammantaradhānapañha 
@@ -3937,7 +3937,7 @@ Adhigamantaradhānaṁ paṭipattantaradhānaṁ liṅgantaradhānaṁ, adhigame
 ^m9 “Suviññāpito, bhante nāgasena, pañho, gambhīro uttānīkato, gaṇṭhi bhinno,
  naṭṭhā paravādā bhaggā nippabhā katā, tvaṁ gaṇivaravasabhamāsajjā”ti. 
 ^m1 Saddhammantaradhānapañho sattamo. 
-^sc5.1.8
+	^sc5.1.8
 ^z2 Meṇḍakapañha 
 ^z3 Iddhibalavagga 
 ^z4 8. Akusalacchedanapañha 
@@ -4036,7 +4036,7 @@ Itipi, mahārāja, na sabbā vedanā kammavipākajā,
  sabbaṁ, mahārāja, akusalaṁ jhāpetvā bhagavā sabbaññutaṁ pattoti evametaṁ dhārehī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 Akusalacchedanapañho aṭṭhamo. 
-^sc5.1.9
+	^sc5.1.9
 ^z2 Meṇḍakapañha 
 ^z3 Iddhibalavagga 
 ^z4 9. Uttarikaraṇīyapañha 
@@ -4079,7 +4079,7 @@ Iti kho, mahārāja, tathāgatā paṭisallānaṁ sevanti na sakaraṇīyatāya
  na katassa vā paticayāya, atha kho guṇavisesadassāvitāya tathāgatā paṭisallānaṁ sevantī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m6 Uttarikaraṇīyapañho navamo. 
-^sc5.1.10
+	^sc5.1.10
 ^z2 Meṇḍakapañha 
 ^z3 Iddhibalavagga 
 ^z4 10 Iddhibaladassanapañha 
@@ -4124,7 +4124,7 @@ evameva kho ahaṁ, bhikkhave, appamattakampi bhavaṁ na vaṇṇemi antamaso a
 ^m4 Iddhibaladassanapañho dasamo. 
 ^m5 Iddhibalavaggo paṭhamo. 
 ^m6 Imasmiṁ vagge dasa pañhā. 
-^sc5.2.1
+	^sc5.2.1
 ^z2 Meṇḍakapañha 
 ^z3 Abhejjavagga 
 ^z4 1. Khuddānukhuddakapañha 
@@ -4168,7 +4168,7 @@ Katamāni tāni khuddakāni sikkhāpadāni, katamāni anukhuddakāni sikkhāpad�
  tehipi ekajjhaṁ na kato dhammasaṇṭhitipariyāye bhagavatā eso pañho upadiṭṭho”ti. 
 “Ciranikkhittaṁ, bhante nāgasena, jinarahassaṁ ajjetarahi loke vivaṭaṁ pākaṭaṁ katan”ti. 
 ^m5 Khuddānukhuddakapañho paṭhamo. 
-^sc5.2.2
+	^sc5.2.2
 ^z2 Meṇḍakapañha 
 ^z3 Abhejjavagga 
 ^z4 2. Abyākaraṇīyapañha 
@@ -4224,7 +4224,7 @@ Na tassa dīpanāya hetu vā kāraṇaṁ vā atthi, tasmā so pañho ṭhapanī
 Natthi buddhānaṁ bhagavantānaṁ akāraṇamahetukaṁ giramudīraṇan”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m8 Abyākaraṇīyapañho dutiyo. 
-^sc5.2.3
+	^sc5.2.3
 ^z2 Meṇḍakapañha 
 ^z3 Abhejjavagga 
 ^z4 3. Maccubhāyanābhāyanapañha 
@@ -4346,7 +4346,7 @@ Evameva kho, mahārāja, nirayā muccitukāmānampi nerayikānaṁ sattānaṁ m
 Aniṭṭhaṁ, mahārāja, sabbasattānaṁ maraṇaṁ, tasmā nerayikā sattā nirayā parimuccitukāmāpi maccuno bhāyantī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 Maccubhāyanābhāyanapañho tatiyo. 
-^sc5.2.4
+	^sc5.2.4
 ^z2 Meṇḍakapañha 
 ^z3 Abhejjavagga 
 ^z4 4. Maccupāsamuttipañha 
@@ -4443,7 +4443,7 @@ Atha naṁ sāmino manussā ākaḍḍhayamānā daṇḍamuggarajāṇumuṭṭ
  gahanaṁ agahanaṁ kataṁ, andhakāro āloko kato,
  viniveṭhitaṁ diṭṭhijālaṁ, tvaṁ gaṇivarapavaramāsajjā”ti. 
 Maccupāsamuttipañho catuttho. 
-^sc5.2.5
+	^sc5.2.5
 ^z2 Meṇḍakapañha 
 ^z3 Abhejjavagga 
 ^z4 5. Buddhalābhantarāyapañha 
@@ -4530,7 +4530,7 @@ Sace so, bhante, māro pāpimā bhagavato uddissa kataṁ upakkhaṭaṁ paribho
  muddhā vāssa phaleyya satadhā vā sahassadhā vā, kāyo vāssa bhusamuṭṭhi viya vikireyya. 
 Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 Buddhalābhantarāyapañho pañcamo. 
-^sc5.2.6
+	^sc5.2.6
 ^z2 Meṇḍakapañha 
 ^z3 Abhejjavagga 
 ^z4 6. Apuññapañha 
@@ -4552,7 +4552,7 @@ Yāyaṁ, mahārāja, āpatti saññāvimokkhā, taṁ āpattiṁ ārabbha bhaga
 ‘anāpatti ajānantassā’”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m3 Apuññapañho chaṭṭho. 
-^sc5.2.7
+	^sc5.2.7
 ^z2 Meṇḍakapañha 
 ^z3 Abhejjavagga 
 ^z4 7. Bhikkhusaṅghapariharaṇapañha 
@@ -4590,7 +4590,7 @@ Attānudiṭṭhiyā pahīnattā”ti.
  gambhīro uttānīkato, gaṇṭhi bhinno, gahanaṁ agahanaṁ kataṁ,
  andhakāro āloko kato, bhaggā paravādā, jinaputtānaṁ cakkhuṁ uppāditan”ti. 
 ^m5 Bhikkhusaṅghapariharaṇapañho sattamo. 
-^sc5.2.8
+	^sc5.2.8
 ^z2 Meṇḍakapañha 
 ^z3 Abhejjavagga 
 ^z4 8. Abhejjaparisapañha 
@@ -4616,7 +4616,7 @@ Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti.
 ^m3 Abhejjaparisapañho aṭṭhamo. 
 ^m4 Abhejjavaggo dutiyo. 
 ^m5 Imasmiṁ vagge aṭṭha pañhā. 
-^sc5.3.1
+	^sc5.3.1
 ^z2 Meṇḍakapañha 
 ^z3 Paṇāmitavagga 
 ^z4 1. Seṭṭhadhammapañha 
@@ -4654,7 +4654,7 @@ Yadi, mahārāja, upāsako sotāpanno arahattaṁ sacchikaroti, dveva tassa gati
 Acalā hi sā, mahārāja, pabbajjā, mahatī accuggatā, yadidaṁ bhikkhubhūmī”ti. 
 “Ñāṇagato, bhante nāgasena, pañho sunibbeṭhito balavatā atibuddhinā tayā, na yimaṁ pañhaṁ samattho añño evaṁ viniveṭhetuṁ aññatra tavādisena buddhimatā”ti. 
 Seṭṭhadhammapañho paṭhamo. 
-^sc5.3.2
+	^sc5.3.2
 ^z2 Meṇḍakapañha 
 ^z3 Paṇāmitavagga 
 ^z4 2. Sabbasattahitapharaṇapañha 
@@ -4721,7 +4721,7 @@ Bhojanaṁ, mahārāja, sabbasattānaṁ jīvitaṁ rakkhati, tamekacce bhuñjit
 Ye pana te sattā abhabbā, te dhammāmatena haññanti patantī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 Sabbasattahitapharaṇapañho dutiyo. 
-^sc5.3.3
+	^sc5.3.3
 ^z2 Meṇḍakapañha 
 ^z3 Paṇāmitavagga 
 ^z4 3. Vatthaguyhanidassanapañha 
@@ -4778,7 +4778,7 @@ Evampi, mahārāja, tathāgato yogaññū desanākusalo”ti.
  andhakāro āloko kato, gaṇṭhi bhinno, bhaggā paravādā, jinaputtānaṁ cakkhuṁ tayā uppāditaṁ,
  nippaṭibhānā titthiyā, tvaṁ gaṇivarapavaramāsajjā”ti. 
 Vatthaguyhanidassanapañho tatiyo. 
-^sc5.3.4
+	^sc5.3.4
 ^z2 Meṇḍakapañha 
 ^z3 Paṇāmitavagga 
 ^z4 4. Pharusavācābhāvapañha 
@@ -4825,7 +4825,7 @@ evameva kho, mahārāja, pharusāpi tathāgatassa vācā na kassaci dukkhaṁ up
 “Suvinicchito, bhante nāgasena, pañho bahūhi kāraṇehi. 
 Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m5 Pharusavācābhāvapañho catuttho. 
-^sc5.3.5
+	^sc5.3.5
 ^z2 Meṇḍakapañha 
 ^z3 Paṇāmitavagga 
 ^z4 5. Rukkhaacetanābhāvapañha 
@@ -4862,7 +4862,7 @@ Yā pana tasmiṁ rukkhe adhivatthā devatā,
  yāya, mahārāja, lokasamaññāya jano voharati, tathāgatopi tāyeva lokasamaññāya sattānaṁ dhammaṁ desetī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m9 Rukkhaacetanābhāvapañho pañcamo. 
-^sc5.3.6
+	^sc5.3.6
 ^z2 Meṇḍakapañha 
 ^z3 Paṇāmitavagga 
 ^z4 6. Piṇḍapātamahapphalapañha 
@@ -4921,7 +4921,7 @@ Yāva mahantā navānupubbavihārasamāpattiyo,
  yatra hi nāma navānupubbavihārasamāpattivasena dānaṁ mahapphalataraṁ hoti mahānisaṁsatarañca. 
 Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 Piṇḍapātamahapphalapañho chaṭṭho. 
-^sc5.3.7
+	^sc5.3.7
 ^z2 Meṇḍakapañha 
 ^z3 Paṇāmitavagga 
 ^z4 7. Buddhapūjanapañha 
@@ -4965,7 +4965,7 @@ evameva kho, mahārāja, akammaṁ hetaṁ jinaputtānaṁ yadidaṁ pūjā,
 Yadetaṁ, mahārāja, tathāgato na bhaṇeyya, pattacīvarampi attano pariyādāpetvā bhikkhū buddhapūjaṁyeva kareyyun”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m7 Buddhapūjanapañho sattamo. 
-^sc5.3.8
+	^sc5.3.8
 ^z2 Meṇḍakapañha 
 ^z3 Paṇāmitavagga 
 ^z4 8. Pādasakalikāhatapañha 
@@ -5012,7 +5012,7 @@ evameva kho, mahārāja, esā papaṭikā pāsāṇasampahāravegena animittakat
 Api ca, mahārāja, akataññussa kadariyassa devadattassa dukkhānubhavanāya papaṭikā bhagavato pāde patitā”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m9 Pādasakalikāhatapañho aṭṭhamo. 
-^sc5.3.9
+	^sc5.3.9
 ^z2 Meṇḍakapañha 
 ^z3 Paṇāmitavagga 
 ^z4 9. Aggaggasamaṇapañha 
@@ -5042,7 +5042,7 @@ evameva kho, mahārāja, ye keci kilesūpasamāya paṭipannā, te sabbe upādā
 evameva kho, mahārāja, ye keci kilesūpasamāya paṭipannā, te sabbe upādāyupādāya samaṇo khīṇāsavo aggamakkhāyatī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m7 Aggaggasamaṇapañho navamo. 
-^sc5.3.10
+	^sc5.3.10
 ^z2 Meṇḍakapañha 
 ^z3 Paṇāmitavagga 
 ^z4 10. Vaṇṇabhaṇanapañha 
@@ -5078,7 +5078,7 @@ Yaṁ pana bhagavatā selassa brāhmaṇassa yathābhucce vaṇṇe bhaññamān
 ^missing
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m7 Vaṇṇabhaṇanapañho dasamo. 
-^sc5.3.11
+	^sc5.3.11
 ^z2 Meṇḍakapañha 
 ^z3 Paṇāmitavagga 
 ^z4 11. Ahiṁsāniggahapañha 
@@ -5127,7 +5127,7 @@ Coro pana, bhante nāgasena, niggaṇhantena kathaṁ niggahetabbo”ti?
 “Tena hi, mahārāja, tathāgatānaṁ anusiṭṭhi sammānusiṭṭhi hotī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m4 Ahiṁsāniggahapañho ekādasamo. 
-^sc5.3.12
+	^sc5.3.12
 ^z2 Meṇḍakapañha 
 ^z3 Paṇāmitavagga 
 ^z4 12. Bhikkhupaṇāmitapañha 
@@ -5161,7 +5161,7 @@ paṇāmesī”ti.
 ^m5 Bhikkhupaṇāmitapañho dvādasamo. 
 ^m6 Paṇāmitavaggo tatiyo. 
 ^m7 Imasmiṁ vagge dvādasa pañhā. 
-^sc5.4.1
+	^sc5.4.1
 ^z2 Meṇḍakapañha 
 ^z3 Sabbaññutañāṇavagga 
 ^z4 1 Iddhikammavipākapañha 
@@ -5197,7 +5197,7 @@ Evameva kho, mahārāja, tesaṁ acintiyānaṁ kammavipākaṁ yeva adhimatta�
  tasmā, mahārāja, āyasmato mahāmoggallānassa kammādhiggahitassa laguḷehi pothiyamānassa iddhiyā samannāhāro nāhosī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m6 Iddhikammavipākapañho paṭhamo. 
-^sc5.4.2
+	^sc5.4.2
 ^z2 Meṇḍakapañha 
 ^z3 Sabbaññutañāṇavagga 
 ^z4 2. Dhammavinayapaṭicchannāpaṭicchannapañha 
@@ -5245,7 +5245,7 @@ evameva kho, mahārāja, yāvatā loke sugatāgamapariyattiācārasaṁyamasīla
 Evaṁ bhikkhubhūmiyā garukattā pātimokkhuddeso sīmaṁ katvā pihito”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m9 Dhammavinayapaṭicchannāpaṭicchannapañho dutiyo. 
-^sc5.4.3
+	^sc5.4.3
 ^z2 Meṇḍakapañha 
 ^z3 Sabbaññutañāṇavagga 
 ^z4 3. Musāvādagarulahubhāvapañha 
@@ -5277,7 +5277,7 @@ Taṁ kiṁ maññasi, mahārāja, idha koci puriso parassa pāṇinā pahāra�
 “Evameva kho, mahārāja, sampajānamusāvādo vatthuvasena garukalahuko hotī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m3 Musāvādagarulahubhāvapañho tatiyo. 
-^sc5.4.4
+	^sc5.4.4
 ^z2 Meṇḍakapañha 
 ^z3 Sabbaññutañāṇavagga 
 ^z4 4. Bodhisattadhammatāpañha 
@@ -5310,7 +5310,7 @@ Vāṇijassa, mahārāja, pubbeva vikkayabhaṇḍaṁ oloketabbaṁ hoti,
 Imesaṁ kho, mahārāja, aṭṭhannaṁ pubbeva anāgataṁ oloketabbaṁ hotī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m4 Bodhisattadhammatāpañho catuttho. 
-^sc5.4.5
+	^sc5.4.5
 ^z2 Meṇḍakapañha 
 ^z3 Sabbaññutañāṇavagga 
 ^z4 5. Attanipātanapañha 
@@ -5386,7 +5386,7 @@ Appavattassa guṇaṁ pavatte ca bhayaṁ dīpayamāno, mahārāja, bhagavā ap
  idamettha, mahārāja, kāraṇaṁ, yena kāraṇena bhagavā samādapesī”ti. 
 “Sādhu, bhante nāgasena, sunibbeṭhito pañho, sukathitaṁ kāraṇaṁ, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m6 Attanipātanapañho pañcamo. 
-^sc5.4.6
+	^sc5.4.6
 ^z2 Meṇḍakapañha 
 ^z3 Sabbaññutañāṇavagga 
 ^z4 6. Mettābhāvanānisaṁsapañha 
@@ -5444,7 +5444,7 @@ Tassa ye keci ahitakāmā upagantvā taṁ na passanti, na tassa sakkonti ahita�
 “Sabbakusalaguṇāvahā, mahārāja, mettābhāvanā hitānampi ahitānampi,
  ye te sattā viññāṇabaddhā, sabbesaṁ mahānisaṁsā mettābhāvanā saṁvibhajitabbā”ti. 
 ^m8 Mettābhāvanānisaṁsapañho chaṭṭho. 
-^sc5.4.7
+	^sc5.4.7
 ^z2 Meṇḍakapañha 
 ^z3 Sabbaññutañāṇavagga 
 ^z4 7 Kusalākusalasamavisamapañha 
@@ -5562,7 +5562,7 @@ Devadatto, mahārāja, yakkho samāno attanā adhammo pare adhamme niyojetvā sa
  api ca, mahārāja, devadatto imasmiṁ bhave buddhaṁ anāsādanīyamāsādayitvā samaggañca saṅghaṁ bhinditvā pathaviṁ pāvisi, tathāgato bujjhitvā sabbadhamme parinibbuto upadhisaṅkhaye”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 Kusalākusalasamavisamapañho sattamo. 
-^sc5.4.8
+	^sc5.4.8
 ^z2 Meṇḍakapañha 
 ^z3 Sabbaññutañāṇavagga 
 ^z4 8. Amarādevīpañha 
@@ -5614,7 +5614,7 @@ Mahosadho, mahārāja, paṇḍito imehi aṭṭhavīsatiyā aṅgehi samannāga
 Sā aññaṁ tādisaṁ nimantakaṁ alabhitvā pāpaṁ nākāsī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m8 Amarādevīpañho aṭṭhamo. 
-^sc5.4.9
+	^sc5.4.9
 ^z2 Meṇḍakapañha 
 ^z3 Sabbaññutañāṇavagga 
 ^z4 9. Arahantaabhāyanapañha 
@@ -5662,7 +5662,7 @@ Evaṁ te arahanto ānisaṁsaṁ disvā disāvidisaṁ pakkantā”ti.
 “Suvibhatto, bhante nāgasena, pañho, evametaṁ natthi arahantānaṁ bhayaṁ vā santāso vā,
  ānisaṁsaṁ disvā arahanto pakkantā disāvidisan”ti. 
 ^m7 Arahantaabhāyanapañho navamo. 
-^sc5.4.10
+	^sc5.4.10
 ^z2 Meṇḍakapañha 
 ^z3 Sabbaññutañāṇavagga 
 ^z4 10 Buddhasabbaññubhāvapañha 
@@ -5695,7 +5695,7 @@ evameva kho, mahārāja, cātumeyyakā ca sakyā brahmā ca sahampati tathāgata
 ^m6 Buddhasabbaññubhāvapañho dasamo. 
 ^m7 Sabbaññutañāṇavaggo catuttho. 
 ^m8 Imasmiṁ vagge dasa pañhā. 
-^sc5.5.1
+	^sc5.5.1
 ^z2 Meṇḍakapañha 
 ^z3 Santhavavagga 
 ^z4 1. Santhavapañha 
@@ -5742,7 +5742,7 @@ Ime dve atthavase sampassamānena bhagavatā bhaṇitaṁ—
  na tattha buddhaputtena ālayo karaṇīyo nikete”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m7 Santhavapañho paṭhamo. 
-^sc5.5.2
+	^sc5.5.2
 ^z2 Meṇḍakapañha 
 ^z3 Santhavavagga 
 ^z4 2. Udarasaṁyatapañha 
@@ -5781,7 +5781,7 @@ Yathā, mahārāja, maṇiratanassa sappabhāsassa jātimantassa abhijātiparisu
 evameva kho, mahārāja, tathāgatassa buddhavisaye pāramiṁ gatassa kiriyākaraṇesu āvaraṇaṁ na hotī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m9 Udarasaṁyatapañho dutiyo. 
-^sc5.5.3
+	^sc5.5.3
 ^z2 Meṇḍakapañha 
 ^z3 Santhavavagga 
 ^z4 3. Buddhaappābādhapañha 
@@ -5828,7 +5828,7 @@ Bhāsitampetaṁ, mahārāja bhagavatā devātidevena saṁyuttanikāyavaralañc
  tathāgato tesaṁ aggamakkhāyati arahaṁ sammāsambuddho’”ti. 
 ^m9 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m1 Buddhaappābādhapañho tatiyo. 
-^sc5.5.4
+	^sc5.5.4
 ^z2 Meṇḍakapañha 
 ^z3 Santhavavagga 
 ^z4 4. Magguppādanapañha 
@@ -5875,7 +5875,7 @@ evameva kho, mahārāja, tathāgato santaṁyeva maggaṁ luggaṁ paluggaṁ g�
 ‘tathāgato, bhikkhave, arahaṁ sammāsambuddho anuppannassa maggassa uppādetā’”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m8 Magguppādanapañho catuttho. 
-^sc5.5.5
+	^sc5.5.5
 ^z2 Meṇḍakapañha 
 ^z3 Santhavavagga 
 ^z4 5. Buddhaaviheṭhakapañha 
@@ -5934,7 +5934,7 @@ Evameva kho, mahārāja, lomasakassapo isi saha dassanena candavatiyā rājakañ
 Yadā ca pana pakaticitto ahosi paṭiladdhassati, tadā punadeva pabbajitvā pañcābhiññāyo nibbattetvā brahmalokūpago ahosī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m8 Buddhaaviheṭhakapañho pañcamo. 
-^sc5.5.6
+	^sc5.5.6
 ^z2 Meṇḍakapañha 
 ^z3 Santhavavagga 
 ^z4 6. Chaddantajotipālārabbhapañha 
@@ -5971,7 +5971,7 @@ evameva kho, mahārāja, jotipālo māṇavo puññavā saddho ñāṇavipulasap
  jinasāsane pabbajitvā abhiññā ca samāpattiyo ca nibbattetvā brahmalokūpago ahosī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m7 Chaddantajotipālārabbhapañho chaṭṭho. 
-^sc5.5.7
+	^sc5.5.7
 ^z2 Meṇḍakapañha 
 ^z3 Santhavavagga 
 ^z4 7. Ghaṭikārapañha 
@@ -6007,7 +6007,7 @@ Yadi, mahārāja, sakko vā taṁ kuṭiṁ anovassaṁ kareyya brahmā vā saya
 Na, mahārāja, tathāgatā vatthuṁ yācanti, tāya avatthuyācanāya aparibhāsiyā bhavantī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m5 Ghaṭikārapañho sattamo. 
-^sc5.5.8
+	^sc5.5.8
 ^z2 Meṇḍakapañha 
 ^z3 Santhavavagga 
 ^z4 8. Brāhmaṇarājavādapañha 
@@ -6083,7 +6083,7 @@ Evamanekavidhaṁ, mahārāja, kāraṇaṁ, yena kāraṇena tathāgato brāhma
  kiṁ atibahuṁ bhaṇitena, saṅkhittaṁ sampaṭicchitabban”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 Brāhmaṇarājavādapañho aṭṭhamo. 
-^sc5.5.9
+	^sc5.5.9
 ^z2 Meṇḍakapañha 
 ^z3 Santhavavagga 
 ^z4 9. Gāthābhigītabhojanakathāpañha 
@@ -6168,7 +6168,7 @@ Verañjāyampi, mahārāja, tathāgatassa sukkhayavapulake bhuñjamānassa devat
 “Lābhā vata, bhante nāgasena, tāsaṁ devatānaṁ, yā tathāgatassa sarīrappaṭijaggane satataṁ samitaṁ ussukkamāpannā. 
 Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m2 Gāthābhigītabhojanakathāpañho navamo. 
-^sc5.5.10
+	^sc5.5.10
 ^z2 Meṇḍakapañha 
 ^z3 Santhavavagga 
 ^z4 10. Dhammadesanāyaappossukkapañha 
@@ -6211,7 +6211,7 @@ evameva kho, mahārāja, brahme onamite tathāgatānaṁ sadevako loko onamissat
  tena ca kāraṇena tathāgatā brahmunā āyācitā dhammaṁ desentī”ti. 
 “Sādhu, bhante nāgasena, sunibbeṭhito pañho, atibhadrakaṁ veyyākaraṇaṁ, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m1 Dhammadesanāya appossukkapañho dasamo. 
-^sc5.5.11
+	^sc5.5.11
 ^z2 Meṇḍakapañha 
 ^z3 Santhavavagga 
 ^z4 11. Ācariyānācariyapañha 
@@ -6263,7 +6263,7 @@ Santhavavaggo pañcamo.
 Tassuddānaṁ 
 Imasmiṁ vagge ekādasa pañhā. 
 Meṇḍakapañho niṭṭhito. 
-^sc6.1.1
+	^sc6.1.1
 ^z2 Anumānapañha 
 ^z3 Buddhavagga 
 ^z4 1 Dvinnaṁbuddhānaṁanuppajjamānapañha 
@@ -6334,7 +6334,7 @@ Yattha te uppajjanti, tattha aññassa okāso na hoti,
 Anipuṇopetaṁ sutvā attamano bhaveyya, kiṁ pana mādiso mahāpañño. 
 Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m1 Dvinnaṁ buddhānaṁ anuppajjamānapañho paṭhamo. 
-^sc6.1.2
+	^sc6.1.2
 ^z2 Anumānapañha 
 ^z3 Buddhavagga 
 ^z4 2. Gotamivatthadānapañha 
@@ -6395,7 +6395,7 @@ Tathāgato arahaṁ sammāsambuddho …pe…
 devamanussānan’”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 Gotamivatthadānapañho dutiyo. 
-^sc6.1.3
+	^sc6.1.3
 ^z2 Anumānapañha 
 ^z3 Buddhavagga 
 ^z4 3. Gihipabbajitasammāpaṭipattipañha 
@@ -6430,7 +6430,7 @@ Yathā, mahārāja, niggaṇṭhisamasudhotaujuvimalanārāco susajjito sammā v
 evameva kho, mahārāja, pabbajitassa yaṁ kiñci karaṇīyaṁ, sabbaṁ taṁ khippameva samijjhati no cirarattāyā”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m7 Gihipabbajitasammāpaṭipattipañho tatiyo. 
-^sc6.1.4
+	^sc6.1.4
 ^z2 Anumānapañha 
 ^z3 Buddhavagga 
 ^z4 4. Paṭipadādosapañha 
@@ -6468,7 +6468,7 @@ Evameva kho, mahārāja, neso doso ārambhassa, na nikkamassa, na kilesayuddhass
  evaṁ kho, mahārāja, sadā paṭiyattā anavajjā sā paṭipadā”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m8 Paṭipadādosapañho catuttho. 
-^sc6.1.5
+	^sc6.1.5
 ^z2 Anumānapañha 
 ^z3 Buddhavagga 
 ^z4 5. Hīnāyāvattanapañha 
@@ -6594,7 +6594,7 @@ Ye tattha ṭhitā bhikkhū, te sadevakaṁ lokaṁ sīlavaracandanagandhena anu
 “Sādhu, bhante nāgasena, tena tena anucchavikena tena tena sadisena kāraṇena niravajjamanupāpitaṁ jinasāsanaṁ seṭṭhabhāvena paridīpitaṁ,
  hīnāyāvattamānāpi te jinasāsanassa seṭṭhabhāvaṁyeva paridīpentī”ti. 
 Hīnāyāvattanapañho pañcamo. 
-^sc6.1.6
+	^sc6.1.6
 ^z2 Anumānapañha 
 ^z3 Buddhavagga 
 ^z4 6. Arahantavedanāvediyanapañha 
@@ -6639,7 +6639,7 @@ Atha kho so abhāvitacitto tasati ravati bheravarāvamabhiravati,
 “Acchariyaṁ, bhante nāgasena, abbhutaṁ, bhante nāgasena,
  na me evarūpo sabbakāliko dhammapadīpo diṭṭhapubbo”ti. 
 ^m7 Arahantavedanāvediyanapañho chaṭṭho. 
-^sc6.1.7
+	^sc6.1.7
 ^z2 Anumānapañha 
 ^z3 Buddhavagga 
 ^z4 7. Abhisamayantarāyakarapañha 
@@ -6687,7 +6687,7 @@ Imassa pana ajānantassa akukkuccajātassa santacittassa viharato kena kāraṇe
  idamettha, mahārāja, kāraṇaṁ, yena kāraṇena ajānantenapi kataṁ pāpaṁ abhisamayantarāyakaraṁ hotī”ti? 
 “Jinabhāsitaṁ, bhante nāgasena, kāraṇaṁ na sakkā paṭikkosituṁ, esovetassa attho tathā sampaṭicchāmī”ti. 
 ^m1 Abhisamayantarāyakarapañho sattamo. 
-^sc6.1.8
+	^sc6.1.8
 ^z2 Anumānapañha 
 ^z3 Buddhavagga 
 ^z4 8. Dussīlapañha 
@@ -6732,7 +6732,7 @@ Sā dakkhiṇā dāyakato visujjhatī’”ti.
 Yathā nāma, bhante, sūdo vā sūdantevāsī vā tāvatakaṁ maṁsaṁ labhitvā nānāvidhehi sambhārehi sampādetvā rājūpabhogaṁ karoti; 
 evameva kho, bhante nāgasena, tāvatakaṁ mayaṁ pañhaṁ apucchimha, taṁ tvaṁ opammehi kāraṇehi vibhāvetvā amatamadhuraṁ savanūpagaṁ akāsī”ti. 
 Dussīlapañho aṭṭhamo. 
-^sc6.1.9
+	^sc6.1.9
 ^z2 Anumānapañha 
 ^z3 Buddhavagga 
 ^z4 9. Udakasattajīvapañha 
@@ -6799,7 +6799,7 @@ Evameva kho, bhante nāgasena, dosāgato pañho anucchavikāya vibhattiyā vibha
 ^m1 Udakasattajīvapañho navamo. 
 Buddhavaggo paṭhamo. 
 Imasmiṁ vagge nava pañhā. 
-^sc6.2.1
+	^sc6.2.1
 ^z2 Anumānapañha 
 ^z3 Nippapañcavagga 
 ^z4 1. Nippapañcapañha 
@@ -6843,7 +6843,7 @@ Yasmā ca kho, mahārāja, savanena karaṇīyaṁ hoti,
  tasmā uddesaparipucchāpi nippapañcā saṅkhatā”ti. 
 “Sunijjhāpito, bhante nāgasena, pañho, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m8 Nippapañcapañho paṭhamo. 
-^sc6.2.2
+	^sc6.2.2
 ^z2 Anumānapañha 
 ^z3 Nippapañcavagga 
 ^z4 2. Khīṇāsavabhāvapañha 
@@ -6869,7 +6869,7 @@ evameva kho, mahārāja, arahattaṁ patto gihī tena liṅgena arahattaṁ dhā
 evameva kho, mahārāja, arahattaṁ patto gihī tena liṅgena arahattaṁ dhāretuṁ na sakkoti, tena kāraṇena tasmiṁyeva divase pabbajati vā parinibbāyati vā”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m6 Khīṇāsavabhāvapañho dutiyo. 
-^sc6.2.3
+	^sc6.2.3
 ^z2 Anumānapañha 
 ^z3 Nippapañcavagga 
 ^z4 3. Khīṇāsavasatisammosapañha 
@@ -6905,7 +6905,7 @@ chaḷabhiñño arahā sakavisayaṁ jāneyya;
 sabbaññū, mahārāja, tathāgatova sabbaṁ jānātī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m6 Khīṇāsavasatisammosapañho tatiyo. 
-^sc6.2.4
+	^sc6.2.4
 ^z2 Anumānapañha 
 ^z3 Nippapañcavagga 
 ^z4 4. Lokenatthibhāvapañha 
@@ -6930,7 +6930,7 @@ Sacetanā vā acetanā vā ajarāmarā loke natthi, saṅkhārānaṁ niccatā n
  imāni kho, mahārāja, tīṇi loke natthī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m3 Loke natthibhāvapañho catuttho. 
-^sc6.2.5
+	^sc6.2.5
 ^z2 Anumānapañha 
 ^z3 Nippapañcavagga 
 ^z4 5. Akammajādipañha 
@@ -6998,7 +6998,7 @@ Asaṅkhatattā dhammassā”ti.
 “Sādhu, bhante nāgasena, sūpadassitaṁ opammaṁ, suniddiṭṭhaṁ kāraṇaṁ,
  evametaṁ tathā sampaṭicchāmi ‘atthi nibbānan’”ti. 
 Akammajādipañho pañcamo. 
-^sc6.2.6
+	^sc6.2.6
 ^z2 Anumānapañha 
 ^z3 Nippapañcavagga 
 ^z4 6. Kammajādipañha 
@@ -7011,7 +7011,7 @@ Nibbānaṁ pana, mahārāja, na vattabbaṁ kammajanti vā hetujanti vā utujan
  api ca, mahārāja, manoviññeyyaṁ nibbānaṁ, yaṁ so sammāpaṭipanno ariyasāvako visuddhena ñāṇena passatī”ti. 
 “Ramaṇīyo, bhante nāgasena, pañho suvinicchito nissaṁsayo ekantagato, vimati uppacchinnā, tvaṁ gaṇivarapavaramāsajjā”ti. 
 ^m2 Kammajādipañho chaṭṭho. 
-^sc6.2.7
+	^sc6.2.7
 ^z2 Anumānapañha 
 ^z3 Nippapañcavagga 
 ^z4 7. Yakkhapañha 
@@ -7027,7 +7027,7 @@ Nibbānaṁ pana, mahārāja, na vattabbaṁ kammajanti vā hetujanti vā utujan
  dijavaṇṇena vā dissati, migavaṇṇena vā dissatī”ti. 
 “Ko hi, bhante nāgasena, añño idaṁ pañhaṁ puṭṭho visajjeyya aññatra tavādisena buddhimatā”ti. 
 ^m2 Yakkhapañho sattamo. 
-^sc6.2.8
+	^sc6.2.8
 ^z2 Anumānapañha 
 ^z3 Nippapañcavagga 
 ^z4 8 Anavasesasikkhāpadapañha 
@@ -7049,7 +7049,7 @@ nārado dhammantarī aṅgiraso kapilo kaṇḍaraggi sāmo atulo pubbakaccāyan
  evametaṁ, bhante nāgasena, suniddiṭṭho eso attho tathāgatena, ‘bahukaṁ idha sikkhitabban’ti sutvā sattānaṁ santāso uppajjeyya,
  ekopi jinasāsane na pabbajeyya, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m4 Anavasesasikkhāpadapañho aṭṭhamo. 
-^sc6.2.9
+	^sc6.2.9
 ^z2 Anumānapañha 
 ^z3 Nippapañcavagga 
 ^z4 9. Sūriyatapanapañha 
@@ -7066,7 +7066,7 @@ Ime kho, mahārāja, cattāro sūriyassa rogā, yesaṁ aññatarena rogena pa�
 “Acchariyaṁ, bhante nāgasena, abbhutaṁ, bhante nāgasena, sūriyassapi tāva tejosampannassa rogo uppajjissati, kimaṅgaṁ pana aññesaṁ sattānaṁ,
  natthi, bhante, esā vibhatti aññassa aññatra tavādisena buddhimatā”ti. 
 ^m2 Sūriyatapanapañho navamo. 
-^sc6.2.10
+	^sc6.2.10
 ^z2 Anumānapañha 
 ^z3 Nippapañcavagga 
 ^z4 10. Kaṭhinatapanapañha 
@@ -7082,7 +7082,7 @@ Idamettha, mahārāja, kāraṇaṁ, yena kāraṇena sūriyo hemante kaṭhina�
 ^m3 Kaṭhinatapanapañho dasamo. 
 ^m4 Nippapañcavaggo dutiyo. 
 ^m5 Imasmiṁ vagge dasa pañhā. 
-^sc6.3.1
+	^sc6.3.1
 ^z2 Anumānapañha 
 ^z3 Vessantaravagga 
 ^z4 1. Vessantarapañha 
@@ -7310,7 +7310,7 @@ byañjanaṁ suparisodhitaṁ;
 suvibhatto attho; 
 evametaṁ tathā sampaṭicchāmī”ti. 
 Vessantarapañho paṭhamo. 
-^sc6.3.2
+	^sc6.3.2
 ^z2 Anumānapañha 
 ^z3 Vessantaravagga 
 ^z4 2. Dukkarakārikapañha 
@@ -7429,7 +7429,7 @@ Pubbe kho, mahārāja, bodhisatto ekamāsiko samāno pitu sakkassa kammante sīt
 catutthaṁ jhānaṁ upasampajja vihāsī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmi, ñāṇaṁ paripācento bodhisatto dukkarakārikaṁ akāsī”ti. 
 Dukkarakārikapañho dutiyo. 
-^sc6.3.3
+	^sc6.3.3
 ^z2 Anumānapañha 
 ^z3 Vessantaravagga 
 ^z4 3. Kusalākusalabalavatarapañha 
@@ -7500,7 +7500,7 @@ Iminā, mahārāja, kāraṇena akusalaṁ diṭṭhadhammavedanīyaṁ, sampar�
 “Sādhu, bhante nāgasena, tavādisena buddhimantena vinā neso pañho sunibbeṭhiyo,
  lokikaṁ, bhante nāgasena, lokuttarena viññāpitan”ti. 
 ^m9 Kusalākusalabalavatarapañho tatiyo. 
-^sc6.3.4
+	^sc6.3.4
 ^z2 Anumānapañha 
 ^z3 Vessantaravagga 
 ^z4 4. Pubbapetādisapañha 
@@ -7578,7 +7578,7 @@ Evameva kho, mahārāja, akusalaṁ karontassa cittaṁ paṭilīyati paṭiku�
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^missing
 Pubbapetādisapañho catuttho. 
-^sc6.3.5
+	^sc6.3.5
 ^z2 Anumānapañha 
 ^z3 Vessantaravagga 
 ^z4 5. Supinapañha 
@@ -7639,7 +7639,7 @@ yathā vivittaṁ vanaṁ, evaṁ kapiniddāpareto daṭṭhabbo;
  evaṁ jāgaro na middhasamāpanno kapiniddāpareto supinaṁ passatī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m1 Supinapañho pañcamo. 
-^sc6.3.6
+	^sc6.3.6
 ^z2 Anumānapañha 
 ^z3 Vessantaravagga 
 ^z4 6. Akālamaraṇapañha 
@@ -7784,7 +7784,7 @@ Idamettha, mahārāja, kāraṇaṁ, yena kāraṇena akāle maraṇaṁ atthī�
 Paṭhamopammenevāhaṁ, bhante, saññatto ‘atthi akāle maraṇan’ti,
  api ca aparāparaṁ nibbāhanaṁ sotukāmo na sampaṭicchin”ti. 
 Akālamaraṇapañho chaṭṭho. 
-^sc6.3.7
+	^sc6.3.7
 ^z2 Anumānapañha 
 ^z3 Vessantaravagga 
 ^z4 7. Cetiyapāṭihāriyapañha 
@@ -7807,7 +7807,7 @@ Idha, mahārāja, arahā devamanussānaṁ anukampāya tiṭṭhantova adhiṭ�
  asatipi, mahārāja, pāṭihīre caritaṁ disvā suparisuddhaṁ okappetabbaṁ niṭṭhaṁ gantabbaṁ saddahitabbaṁ ‘suparinibbuto ayaṁ buddhaputto’”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m6 Cetiyapāṭihāriyapañho sattamo. 
-^sc6.3.8
+	^sc6.3.8
 ^z2 Anumānapañha 
 ^z3 Vessantaravagga 
 ^z4 8. Dhammābhisamayapañha 
@@ -7859,7 +7859,7 @@ So tena dubbalena cittena parittakena mandena avibhūtena na sakkoti mahatiṁ a
  tena kāraṇena ūnakasattavassikassa suppaṭipannassāpi dhammābhisamayo na hotī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m8 Dhammābhisamayapañho aṭṭhamo. 
-^sc6.3.9
+	^sc6.3.9
 ^z2 Anumānapañha 
 ^z3 Vessantaravagga 
 ^z4 9. Ekantasukhanibbānapañha 
@@ -7911,7 +7911,7 @@ Ye pana taṁ nibbānaṁ pariyesanti, te kāyañca cittañca ātāpetvā ṭhā
 Evaṁ, mahārāja, ekantasukhaṁ nibbānaṁ, na dukkhena missaṁ, aññaṁ dukkhaṁ, aññaṁ nibbānan”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 ^m5 Ekantasukhanibbānapañho navamo. 
-^sc6.3.10
+	^sc6.3.10
 ^z2 Anumānapañha 
 ^z3 Vessantaravagga 
 ^z4 10. Nibbānarūpasaṇṭhānapañha 
@@ -8068,7 +8068,7 @@ Ayaṁ, mahārāja, girisikharassa pañcamo guṇo nibbānaṁ anupaviṭṭho.
 Ime kho, mahārāja, girisikharassa pañca guṇā nibbānaṁ anupaviṭṭhā”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 Nibbānarūpasaṇṭhānapañho dasamo. 
-^sc6.3.11
+	^sc6.3.11
 ^z2 Anumānapañha 
 ^z3 Vessantaravagga 
 ^z4 11. Nibbānasacchikaraṇapañha 
@@ -8126,7 +8126,7 @@ So appavattatthāya maggaṁ āyūhati gavesati bhāveti bahulīkaroti, tassa ta
  appavattamanuppatto, mahārāja, sammāpaṭipanno ‘nibbānaṁ sacchikarotī’ti vuccatī”ti. 
 “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti. 
 Nibbānasacchikaraṇapañho ekādasamo. 
-^sc6.3.12
+	^sc6.3.12
 ^z2 Anumānapañha 
 ^z3 Vessantaravagga 
 ^z4 12. Nibbānasannihitapañha 
@@ -8174,7 +8174,7 @@ yattha katthacipi ṭhitassa sammāpaṭipannassa atthi nibbānasacchikiriyā”
 ^m8 Nibbānasannihitapañho dvādasamo. 
 ^m9 Vessantaravaggo tatiyo. 
 ^m1 Imasmiṁ vagge dvādasa pañhā. 
-^sc6.4.1
+	^sc6.4.1
 ^z2 Anumānavagga 
 ^z3 1. Anumānapañha 
 ^m1 Atha kho milindo rājā yenāyasmā nāgaseno tenupasaṅkami, upasaṅkamitvā āyasmantaṁ nāgasenaṁ abhivādetvā ekamantaṁ nisīdi,
@@ -8638,7 +8638,7 @@ evameva kho, mahārāja, so bhagavā vicittapuppharāsi viya anantaguṇo appame
 “Dukkaraṁ, bhante nāgasena, aññesaṁ evarūpena kāraṇena anumānena buddhabalaṁ upadassayituṁ,
  nibbutosmi, bhante nāgasena, tumhākaṁ paramavicittena pañhaveyyākaraṇenā”ti. 
 Anumānapañho paṭhamo. 
-^sc6.4.2
+	^sc6.4.2
 ^z2 Anumānapañha 
 ^z3 Anumānavagga 
 ^z4 2. Dhutaṅgapañha 
@@ -8895,7 +8895,7 @@ Bhāsitampetaṁ, mahārāja, bhagavatā devātidevena ekaṅguttaranikāyavaral
  yā ca loke adhigamavipulavarasampattiyo, sabbaṁ taṁ terasasu dhutaguṇesu samodhānopagatan”ti. 
 Dhutaṅgapañho dutiyo. 
 Anumānavaggo catuttho. 
-^sc7.1
+	^sc7.1
 ^z2 7 Opammakathāpañha 
 ^z3 Mātikā 
 ^m1 “Bhante nāgasena, katihaṅgehi samannāgato bhikkhu arahattaṁ sacchikarotī”ti? 
@@ -9013,7 +9013,7 @@ Tunnavāyassa ekaṁ aṅgaṁ gahetabbaṁ.
 Nāvikassa ekaṁ aṅgaṁ gahetabbaṁ. 
 Bhamarassa dve aṅgāni gahetabbānī”ti. 
 Mātikā niṭṭhitā. 
-^sc7.2.1
+	^sc7.2.1
 ^z2 Opammakathāpañha 
 ^z3 Gadrabhavagga 
 ^z4 1. Gadrabhaṅgapañha 
@@ -9029,7 +9029,7 @@ jaṇṇuke nābhivassati;
 Alaṁ phāsuvihārāya, 
 pahitattassa bhikkhuno’”ti. 
 ^m3 Gadrabhaṅgapañho paṭhamo. 
-^sc7.2.2
+	^sc7.2.2
 ^z2 Opammakathāpañha 
 ^z3 Gadrabhavagga 
 ^z4 2. Kukkuṭaṅgapañha 
@@ -9078,7 +9078,7 @@ Appamattena vā pana;
 Jinavacanaṁ na madditabbaṁ, 
 Manasikāravaruttaman’”ti. 
 ^m1 Kukkuṭaṅgapañho dutiyo. 
-^sc7.2.3
+	^sc7.2.3
 ^z2 Opammakathāpañha 
 ^z3 Gadrabhavagga 
 ^z4 3. Kalandakaṅgapañha 
@@ -9093,7 +9093,7 @@ sāmaññaguṇadhaṁsanā;
 Satipaṭṭhānalaguḷena, 
 hantabbā te punappunan’”ti. 
 ^m3 Kalandakaṅgapañho tatiyo. 
-^sc7.2.4
+	^sc7.2.4
 ^z2 Opammakathāpañha 
 ^z3 Gadrabhavagga 
 ^z4 4. Dīpiniyaṅgapañha 
@@ -9108,7 +9108,7 @@ Nāgo pūtilataṁva dālayitvā;
 Nāhaṁ punupessaṁ gabbhaseyyaṁ, 
 Atha ce patthayasī pavassa devā’”ti. 
 ^m3 Dīpiniyaṅgapañho catuttho. 
-^sc7.2.5
+	^sc7.2.5
 ^z2 Opammakathāpañha 
 ^z3 Gadrabhavagga 
 ^z4 5. Dīpikaṅgapañha 
@@ -9138,7 +9138,7 @@ nikkhamitvā bahī care;
 Neva bhindeyyamājīvaṁ, 
 cajamānopi jīvitan’”ti. 
 ^m6 Dīpikaṅgapañho pañcamo. 
-^sc7.2.6
+	^sc7.2.6
 ^z2 Opammakathāpañha 
 ^z3 Gadrabhavagga 
 ^z4 6. Kummaṅgapañha 
@@ -9170,7 +9170,7 @@ Samodahaṁ bhikkhu manovitakke;
 Anissito aññamaheṭhayāno, 
 Parinibbuto nūpavadeyya kañcī’”ti. 
 ^m8 Kummaṅgapañho chaṭṭho. 
-^sc7.2.7
+	^sc7.2.7
 ^z2 Opammakathāpañha 
 ^z3 Gadrabhavagga 
 ^z4 7. Vaṁsaṅgapañha 
@@ -9185,7 +9185,7 @@ anulometvāna sabbadā;
 Kappiye anavajjasmiṁ, 
 ṭhatvāpāyaṁ samuttarin’”ti. 
 ^m3 Vaṁsaṅgapañho sattamo. 
-^sc7.2.8
+	^sc7.2.8
 ^z2 Opammakathāpañha 
 ^z3 Gadrabhavagga 
 ^z4 8. Cāpaṅgapañha 
@@ -9200,7 +9200,7 @@ vaṁso vāpi pakampaye;
 Paṭilomaṁ na vatteyya, 
 sa rājavasatiṁ vase’”ti. 
 ^m3 Cāpaṅgapañho aṭṭhamo. 
-^sc7.2.9
+	^sc7.2.9
 ^z2 Opammakathāpañha 
 ^z3 Gadrabhavagga 
 ^z4 9. Vāyasaṅgapañha 
@@ -9218,7 +9218,7 @@ yathāladdhaṁ tapassino;
 Sabbe saṁvibhajitvāna, 
 tato bhuñjāmi bhojanan’”ti. 
 ^m4 Vāyasaṅgapañho navamo. 
-^sc7.2.10
+	^sc7.2.10
 ^z2 Opammakathāpañha 
 ^z3 Gadrabhavagga 
 ^z4 10. Makkaṭaṅgapañha 
@@ -9242,7 +9242,7 @@ pavanantaṁva vaṇṇitan’”ti.
 kalando dīpini dīpiko; 
 Kummo vaṁso ca cāpo ca, 
 vāyaso atha makkaṭoti. 
-^sc7.3.1
+	^sc7.3.1
 ^z2 Opammakathāpañha 
 ^z3 Samuddavagga 
 ^z4 1. Lābulataṅgapañha 
@@ -9261,7 +9261,7 @@ Arahattaphalakāminā;
 Ārammaṇaṁ ālambitvā, 
 Vaḍḍhitabbaṁ asekkhaphale’”ti. 
 ^m4 Lābulataṅgapañho paṭhamo. 
-^sc7.3.2
+	^sc7.3.2
 ^z2 Opammakathāpañha 
 ^z3 Samuddavagga 
 ^z4 2. Padumaṅgapañha 
@@ -9278,7 +9278,7 @@ evameva kho, mahārāja, yoginā yogāvacarena appamattakesupi kilesesu saṁyam
 Idaṁ, mahārāja, padumassa tatiyaṁ aṅgaṁ gahetabbaṁ. 
 Bhāsitampetaṁ, mahārāja, bhagavatā devātidevena ‘aṇumattesu vajjesu bhayadassāvī samādāya sikkhati sikkhāpadesū’”ti. 
 ^m4 Padumaṅgapañho dutiyo. 
-^sc7.3.3
+	^sc7.3.3
 ^z2 Opammakathāpañha 
 ^z3 Samuddavagga 
 ^z4 3. Bījaṅgapañha 
@@ -9301,7 +9301,7 @@ suññāgāre visodhitaṁ;
 Satipaṭṭhānakhettamhi, 
 khippameva virūhatī’”ti. 
 ^m5 Bījaṅgapañho tatiyo. 
-^sc7.3.4
+	^sc7.3.4
 ^z2 Opammakathāpañha 
 ^z3 Samuddavagga 
 ^z4 4. Sālakalyāṇikaṅgapañha 
@@ -9324,7 +9324,7 @@ sālakalyāṇikā viya;
 Abbhantare suññāgāre, 
 dhammato abhivaḍḍhayin’”ti. 
 ^m5 Sālakalyāṇikaṅgapañho catuttho. 
-^sc7.3.5
+	^sc7.3.5
 ^z2 Opammakathāpañha 
 ^z3 Samuddavagga 
 ^z4 5. Nāvaṅgapañha 
@@ -9345,7 +9345,7 @@ Bhāsitampetaṁ, mahārāja, bhagavatā devātidevena saṁyuttanikāyavare sac
  “ayaṁ dukkhanirodho”ti vitakkeyyātha,
  “ayaṁ dukkhanirodhagāminī paṭipadā”ti vitakkeyyāthā’”ti. 
 ^m5 Nāvaṅgapañho pañcamo. 
-^sc7.3.6
+	^sc7.3.6
 ^z2 Opammakathāpañha 
 ^z3 Samuddavagga 
 ^z4 6. Nāvālagganakaṅgapañha 
@@ -9364,7 +9364,7 @@ na plavati visīdati;
 Tatheva lābhasakkāre, 
 mā plavatha visīdathā’”ti. 
 ^m4 Nāvālagganakaṅgapañho chaṭṭho. 
-^sc7.3.7
+	^sc7.3.7
 ^z2 Opammakathāpañha 
 ^z3 Samuddavagga 
 ^z4 7. Kūpaṅgapañha 
@@ -9378,7 +9378,7 @@ evameva kho, mahārāja, yoginā yogāvacarena satisampajaññasamannāgatena bh
 Idaṁ, mahārāja, kūpassa ekaṁ aṅgaṁ gahetabbaṁ. 
 Bhāsitampetaṁ, mahārāja, bhagavatā devātidevena ‘sato, bhikkhave, bhikkhu vihareyya sampajāno, ayaṁ vo amhākaṁ anusāsanī’”ti. 
 ^m2 Kūpaṅgapañho sattamo. 
-^sc7.3.8
+	^sc7.3.8
 ^z2 Opammakathāpañha 
 ^z3 Samuddavagga 
 ^z4 8. Niyāmakaṅgapañha 
@@ -9402,7 +9402,7 @@ Bhāsitampetaṁ, mahārāja, bhagavatā devātidevena saṁyuttanikāyavare—
 ‘mā, bhikkhave, pāpake akusale vitakke vitakkeyyātha, seyyathidaṁ—
 kāmavitakkaṁ byāpādavitakkaṁ vihiṁsāvitakkan’”ti. 
 ^m5 Niyāmakaṅgapañho aṭṭhamo. 
-^sc7.3.9
+	^sc7.3.9
 ^z2 Opammakathāpañha 
 ^z3 Samuddavagga 
 ^z4 9. Kammakāraṅgapañha 
@@ -9421,7 +9421,7 @@ parijānātha punappunaṁ;
 Kāye sabhāvaṁ disvāna, 
 dukkhassantaṁ karissathā’”ti. 
 ^m3 Kammakāraṅgapañho navamo. 
-^sc7.3.10
+	^sc7.3.10
 ^z2 Opammakathāpañha 
 ^z3 Samuddavagga 
 ^z4 10. Samuddaṅgapañha 
@@ -9459,7 +9459,7 @@ Nāvā ca nāvālagganaṁ,
 kūpo niyāmako tathā; 
 Kammakāro samuddo ca, 
 vaggo tena pavuccatīti. 
-^sc7.4.1
+	^sc7.4.1
 ^z2 Opammakathāpañha 
 ^z3 Pathavīvagga 
 ^z4 1. Pathavīaṅgapañha 
@@ -9490,7 +9490,7 @@ rāgo asmiṁ na vijjati;
 Pathavīsamacittā te, 
 tādisā samaṇā mamā’”ti. 
 ^m8 Pathavīaṅgapañho paṭhamo. 
-^sc7.4.2
+	^sc7.4.2
 ^z2 Opammakathāpañha 
 ^z3 Pathavīvagga 
 ^z4 2. Āpaṅgapañha 
@@ -9519,7 +9519,7 @@ maṁ-kate sakka kassaci;
 Kadāci upahaññetha, 
 etaṁ sakka varaṁ vare’”ti. 
 ^m7 Āpaṅgapañho dutiyo. 
-^sc7.4.3
+	^sc7.4.3
 ^z2 Opammakathāpañha 
 ^z3 Pathavīvagga 
 ^z4 3. Tejaṅgapañha 
@@ -9544,7 +9544,7 @@ Bhāsitampetaṁ, mahārāja, bhagavatā devātidevena sakaṁ puttaṁ rāhula�
 ^m6 ‘Tejosamaṁ, rāhula, bhāvanaṁ bhāvehi. 
 Tejosamaṁ hi te, rāhula, bhāvanaṁ bhāvayato uppannā manāpāmanāpā phassā cittaṁ na pariyādāya ṭhassantī’”ti. 
 ^m7 Tejaṅgapañho tatiyo. 
-^sc7.4.4
+	^sc7.4.4
 ^z2 Opammakathāpañha 
 ^z3 Pathavīvagga 
 ^z4 4. Vāyuṅgapañha 
@@ -9571,7 +9571,7 @@ niketā jāyate rajo;
 Aniketamasanthavaṁ, 
 etaṁ ve munidassanan’”ti. 
 ^m7 Vāyuṅgapañho catuttho. 
-^sc7.4.5
+	^sc7.4.5
 ^z2 Opammakathāpañha 
 ^z3 Pathavīvagga 
 ^z4 5. Pabbataṅgapañha 
@@ -9628,7 +9628,7 @@ alābhena ca onato;
 Lābhālābhena ekaṭṭhā, 
 tādisā samaṇā mamā’”ti. 
 Pabbataṅgapañho pañcamo. 
-^sc7.4.6
+	^sc7.4.6
 ^z2 Opammakathāpañha 
 ^z3 Pathavīvagga 
 ^z4 6. Ākāsaṅgapañha 
@@ -9654,7 +9654,7 @@ Bhāsitampetaṁ, mahārāja, bhagavatā devātidevena sakaṁ puttaṁ rāhula�
 evameva kho tvaṁ, rāhula, ākāsasamaṁ bhāvanaṁ bhāvehi. 
 Ākāsasamaṁ hi te, rāhula, bhāvanaṁ bhāvayato uppannā manāpāmanāpā phassā cittaṁ pariyādāya ṭhassantī’”ti. 
 ^m7 Ākāsaṅgapañho chaṭṭho. 
-^sc7.4.7
+	^sc7.4.7
 ^z2 Opammakathāpañha 
 ^z3 Pathavīvagga 
 ^z4 7. Candaṅgapañha 
@@ -9678,7 +9678,7 @@ Idaṁ, mahārāja, candassa pañcamaṁ aṅgaṁ gahetabbaṁ.
 Bhāsitampetaṁ, mahārāja, bhagavatā devātidevena saṁyuttanikāyavare
  ‘candūpamā, bhikkhave, kulāni upasaṅkamatha, apakasseva kāyaṁ apakassa cittaṁ niccanavakā kulesu appagabbhā’”ti. 
 ^m6 Candaṅgapañho sattamo. 
-^sc7.4.8
+	^sc7.4.8
 ^z2 Opammakathāpañha 
 ^z3 Pathavīvagga 
 ^z4 8. Sūriyaṅgapañha 
@@ -9715,7 +9715,7 @@ avijjāpihitaṁ janaṁ;
 Pathaṁ dasseti vividhaṁ, 
 ādiccovudayaṁ yathā’”ti. 
 ^m1 Sūriyaṅgapañho aṭṭhamo. 
-^sc7.4.9
+	^sc7.4.9
 ^z2 Opammakathāpañha 
 ^z3 Pathavīvagga 
 ^z4 9. Sakkaṅgapañha 
@@ -9736,7 +9736,7 @@ yato pabbajito ahaṁ;
 Nābhijānāmi uppannaṁ, 
 mānasaṁ kāmasaṁhitan’”ti. 
 ^m5 Sakkaṅgapañho navamo. 
-^sc7.4.10
+	^sc7.4.10
 ^z2 Opammakathāpañha 
 ^z3 Pathavīvagga 
 ^z4 10. Cakkavattiṅgapañha 
@@ -9771,7 +9771,7 @@ Pathavī āpo ca tejo ca,
 vāyo ca pabbatena ca; 
 Ākāso candasūriyo ca, 
 sakko ca cakkavattināti. 
-^sc7.5.1
+	^sc7.5.1
 ^z2 Opammakathāpañha 
 ^z3 Upacikāvagga 
 ^z4 1. Upacikaṅgapañha 
@@ -9787,7 +9787,7 @@ yogī katvāna mānasaṁ;
 Anupalitto lokena, 
 bhayā ca parimuccatī’”ti. 
 ^m3 Upacikaṅgapañho paṭhamo. 
-^sc7.5.2
+	^sc7.5.2
 ^z2 Opammakathāpañha 
 ^z3 Upacikāvagga 
 ^z4 2. Biḷāraṅgapañha 
@@ -9810,7 +9810,7 @@ bhavaggaṁ kiṁ karissati;
 Paccuppannamhi vohāre, 
 sake kāyamhi vindathā’”ti. 
 ^m4 Biḷāraṅgapañho dutiyo. 
-^sc7.5.3
+	^sc7.5.3
 ^z2 Opammakathāpañha 
 ^z3 Upacikāvagga 
 ^z4 3. Undūraṅgapañha 
@@ -9825,7 +9825,7 @@ viharanto vipassako;
 Anolīno viharati, 
 upasanto sadā sato’”ti. 
 ^m3 Undūraṅgapañho tatiyo. 
-^sc7.5.4
+	^sc7.5.4
 ^z2 Opammakathāpañha 
 ^z3 Upacikāvagga 
 ^z4 4. Vicchikaṅgapañha 
@@ -9840,7 +9840,7 @@ viharanto vipassako;
 Parimuccati sabbabhayā, 
 duppasaho ca so bhave’”ti. 
 ^m3 Vicchikaṅgapañho catuttho. 
-^sc7.5.5
+	^sc7.5.5
 ^z2 Opammakathāpañha 
 ^z3 Upacikāvagga 
 ^z4 5. Nakulaṅgapañha 
@@ -9855,7 +9855,7 @@ kātabbā mettabhāvanā;
 Mettacittena pharitabbaṁ, 
 etaṁ buddhāna sāsanan’”ti. 
 ^m3 Nakulaṅgapañho pañcamo. 
-^sc7.5.6
+	^sc7.5.6
 ^z2 Opammakathāpañha 
 ^z3 Upacikāvagga 
 ^z4 6. Jarasiṅgālaṅgapañha 
@@ -9888,7 +9888,7 @@ jhāne na ramate mano;
 Itarītarena santuṭṭho, 
 sāmaññaṁ paripūratī’”ti. 
 ^m7 Jarasiṅgālaṅgapañho chaṭṭho. 
-^sc7.5.7
+	^sc7.5.7
 ^z2 Opammakathāpañha 
 ^z3 Upacikāvagga 
 ^z4 7. Migaṅgapañha 
@@ -9913,7 +9913,7 @@ kusīto hīnavīriyo;
 Appassuto anācāro, 
 sammato ahu katthacī’”ti. 
 ^m7 Migaṅgapañho sattamo. 
-^sc7.5.8
+	^sc7.5.8
 ^z2 Opammakathāpañha 
 ^z3 Upacikāvagga 
 ^z4 8. Gorūpaṅgapañha 
@@ -9942,7 +9942,7 @@ tasmiṁ disvā upaṭṭhape;
 Ṭhapeyyācariyaṭṭhāne, 
 sakkacca naṁ punappunan’”ti. 
 ^m7 Gorūpaṅgapañho aṭṭhamo. 
-^sc7.5.9
+	^sc7.5.9
 ^z2 Opammakathāpañha 
 ^z3 Upacikāvagga 
 ^z4 9. Varāhaṅgapañha 
@@ -9960,7 +9960,7 @@ vicinitvā vipassako;
 Ekākiyo adutiyo, 
 seti ārammaṇantare’”ti. 
 ^m4 Varāhaṅgapañho navamo. 
-^sc7.5.10
+	^sc7.5.10
 ^z2 Opammakathāpañha 
 ^z3 Upacikāvagga 
 ^z4 10. Hatthiṅgapañha 
@@ -9995,7 +9995,7 @@ rakkhitoti pavuccatī’”ti.
 Undūro vicchikena ca; 
 Nakulo siṅgālo migo, 
 Gorūpo varāho hatthinā dasāti. 
-^sc7.6.1
+	^sc7.6.1
 ^z2 Opammakathāpañha 
 ^z3 Sīhavagga 
 ^z4 1. Sīhaṅgapañha 
@@ -10028,7 +10028,7 @@ Bhāsitampetaṁ, mahārāja, bhagavatā devātidevena saṁyuttanikāyavare the
  na ca piṇḍapātahetu anesanaṁ appatirūpaṁ āpajjati, aladdhā ca piṇḍapātaṁ na paritassati,
  laddhā ca piṇḍapātaṁ agadhito amucchito anajjhosanno ādīnavadassāvī nissaraṇapañño paribhuñjatī’”ti. 
 ^m9 Sīhaṅgapañho paṭhamo. 
-^sc7.6.2
+	^sc7.6.2
 ^z2 Opammakathāpañha 
 ^z3 Sīhavagga 
 ^z4 2. Cakkavākaṅgapañha 
@@ -10050,7 +10050,7 @@ na jināti na jāpaye;
 Mettaṁso sabbabhūtesu, 
 veraṁ tassa na kenacī’”ti. 
 ^m5 Cakkavākaṅgapañho dutiyo. 
-^sc7.6.3
+	^sc7.6.3
 ^z2 Opammakathāpañha 
 ^z3 Sīhavagga 
 ^z4 3. Peṇāhikaṅgapañha 
@@ -10068,7 +10068,7 @@ Careyya saṁyojanavippamokkhā;
 Sace ratiṁ nādhigaccheyya tattha, 
 Saṅghe vase rakkhitatto satīmā’”ti. 
 ^m4 Peṇāhikaṅgapañho tatiyo. 
-^sc7.6.4
+	^sc7.6.4
 ^z2 Opammakathāpañha 
 ^z3 Sīhavagga 
 ^z4 4. Gharakapotaṅgapañha 
@@ -10085,7 +10085,7 @@ pānatthaṁ bhojanāya vā;
 Mitaṁ khāde mitaṁ bhuñje, 
 na ca rūpe manaṁ kare’”ti. 
 ^m3 Gharakapotaṅgapañho catuttho. 
-^sc7.6.5
+	^sc7.6.5
 ^z2 Opammakathāpañha 
 ^z3 Sīhavagga 
 ^z4 5. Ulūkaṅgapañha 
@@ -10104,7 +10104,7 @@ Bhāsitampetaṁ, mahārāja, bhagavatā devātidevena saṁyuttanikāyavare—
  “ayaṁ dukkhanirodho”ti yathābhūtaṁ pajānāti,
  “ayaṁ dukkhanirodhagāminī paṭipadā”ti yathābhūtaṁ pajānātī’”ti. 
 ^m4 Ulūkaṅgapañho pañcamo. 
-^sc7.6.6
+	^sc7.6.6
 ^z2 Opammakathāpañha 
 ^z3 Sīhavagga 
 ^z4 6. Satapattaṅgapañha 
@@ -10119,7 +10119,7 @@ nibbāne vipulaṁ sukhaṁ;
 Ubhayānetānatthāni, 
 dassetabbāni yoginā’”ti. 
 ^m3 Satapattaṅgapañho chaṭṭho. 
-^sc7.6.7
+	^sc7.6.7
 ^z2 Opammakathāpañha 
 ^z3 Sīhavagga 
 ^z4 7. Vagguliṅgapañha 
@@ -10143,7 +10143,7 @@ Balena vaṇṇena sukhena cūbhayaṁ;
 Kathaṁ na hāyeyyuṁ pareti icchati, 
 Atthasamiddhiñca panābhikaṅkhatī’”ti. 
 ^m5 Vagguliṅgapañho sattamo. 
-^sc7.6.8
+	^sc7.6.8
 ^z2 Opammakathāpañha 
 ^z3 Sīhavagga 
 ^z4 8. Jalūkaṅgapañha 
@@ -10159,7 +10159,7 @@ Bhāsitampetaṁ, mahārāja, therena anuruddhena—
 Tena cittena pātabbaṁ, 
 Vimuttirasamasecanan’”ti. 
 ^m3 Jalūkaṅgapañho aṭṭhamo. 
-^sc7.6.9
+	^sc7.6.9
 ^z2 Opammakathāpañha 
 ^z3 Sīhavagga 
 ^z4 9. Sappaṅgapañha 
@@ -10182,7 +10182,7 @@ Akāmakā aññamaññaṁ sarantā;
 Tamekarattaṁ anutappamānā, 
 Socāmasā ratti puna na hessatī’”ti. 
 ^m5 Sappaṅgapañho navamo. 
-^sc7.6.10
+	^sc7.6.10
 ^z2 Opammakathāpañha 
 ^z3 Sīhavagga 
 ^z4 10. Ajagaraṅgapañha 
@@ -10210,7 +10210,7 @@ Ulūko satapatto ca,
 vagguli ca jalūpikā; 
 Sappo ajagaro ceva, 
 vaggo tena pavuccatīti. 
-^sc7.7.1
+	^sc7.7.1
 ^z2 Opammakathāpañha 
 ^z3 Makkaṭakavagga 
 ^z4 1. Panthamakkaṭakaṅgapañha 
@@ -10225,7 +10225,7 @@ Satipaṭṭhānavaruttame;
 Kilesā tattha laggā ce, 
 Hantabbā te vipassinā’”ti. 
 ^m3 Panthamakkaṭakaṅgapañho paṭhamo. 
-^sc7.7.2
+	^sc7.7.2
 ^z2 Opammakathāpañha 
 ^z3 Makkaṭakavagga 
 ^z4 2. Thanassitadārakaṅgapañha 
@@ -10239,7 +10239,7 @@ Bhāsitampetaṁ, mahārāja, bhagavatā devātidevena dīghanikāyavare parinib
 ^m2 ‘Iṅgha tumhe, ānanda, sāratthe ghaṭatha, sāratthe anuyuñjatha,
  sāratthe appamattā ātāpino pahitattā viharathā’”ti. 
 ^m3 Thanassitadārakaṅgapañho dutiyo. 
-^sc7.7.3
+	^sc7.7.3
 ^z2 Opammakathāpañha 
 ^z3 Makkaṭakavagga 
 ^z4 3. Cittakadharakummaṅgapañha 
@@ -10255,7 +10255,7 @@ pamāde bhayadassi vā;
 Abhabbo parihānāya, 
 nibbānasseva santike’”ti. 
 ^m3 Cittakadharakummaṅgapañho catuttho. 
-^sc7.7.4
+	^sc7.7.4
 ^z2 Opammakathāpañha 
 ^z3 Makkaṭakavagga 
 ^z4 4. Pavanaṅgapañha 
@@ -10282,7 +10282,7 @@ pahitattehi jhāyibhi;
 Niccaṁ āraddhavīriyehi, 
 paṇḍitehi sahāvase’”ti. 
 ^m7 Pavanaṅgapañho catuttho. 
-^sc7.7.5
+	^sc7.7.5
 ^z2 Opammakathāpañha 
 ^z3 Makkaṭakavagga 
 ^z4 5. Rukkhaṅgapañha 
@@ -10305,7 +10305,7 @@ core aṅgulimālake;
 Dhanapāle rāhule ca, 
 sabbattha samako munī’”ti. 
 ^m5 Rukkhaṅgapañho pañcamo. 
-^sc7.7.6
+	^sc7.7.6
 ^z2 Opammakathāpañha 
 ^z3 Makkaṭakavagga 
 ^z4 6. Meghaṅgapañha 
@@ -10333,7 +10333,7 @@ satasahassepi yojane;
 Khaṇena upagantvāna, 
 bodheti taṁ mahāmunī’”ti. 
 ^m7 Meghaṅgapañho chaṭṭho. 
-^sc7.7.7
+	^sc7.7.7
 ^z2 Opammakathāpañha 
 ^z3 Makkaṭakavagga 
 ^z4 7. Maṇiratanaṅgapañha 
@@ -10355,7 +10355,7 @@ Kappayavho patissatā;
 Tato samaggā nipakā, 
 Dukkhassantaṁ karissathā’”ti. 
 ^m5 Maṇiratanaṅgapañho sattamo. 
-^sc7.7.8
+	^sc7.7.8
 ^z2 Opammakathāpañha 
 ^z3 Makkaṭakavagga 
 ^z4 8. Māgavikaṅgapañha 
@@ -10381,7 +10381,7 @@ Pahitattena bhikkhunā;
 Bhiyyo hāso janetabbo, 
 Adhigacchissāmi uttarin’”ti. 
 ^m6 Māgavikaṅgapañho aṭṭhamo. 
-^sc7.7.9
+	^sc7.7.9
 ^z2 Opammakathāpañha 
 ^z3 Makkaṭakavagga 
 ^z4 9. Bāḷisikaṅgapañha 
@@ -10400,7 +10400,7 @@ Vimokkhañcāppaṇihitaṁ;
 Caturo phale chaḷabhiññā, 
 Cajitvā lokāmisaṁ labhe’”ti. 
 ^m4 Bāḷisikaṅgapañho navamo. 
-^sc7.7.10
+	^sc7.7.10
 ^z2 Opammakathāpañha 
 ^z3 Makkaṭakavagga 
 ^z4 10. Tacchakaṅgapañha 
@@ -10433,7 +10433,7 @@ dukkhassantaṁ karissathā’”ti.
 vanaṁ rukkho ca pañcamo; 
 Megho maṇi māgaviko, 
 bāḷisī tacchakena cāti. 
-^sc7.8.1
+	^sc7.8.1
 ^z2 Opammakathāpañha 
 ^z3 Kumbhavagga 
 ^z4 1. Kumbhaṅgapañha 
@@ -10449,7 +10449,7 @@ Yaṁ pūraṁ santameva taṁ;
 Aḍḍhakumbhūpamo bālo, 
 Rahado pūrova paṇḍito’”ti. 
 ^m3 Kumbhaṅgapañho paṭhamo. 
-^sc7.8.2
+	^sc7.8.2
 ^z2 Opammakathāpañha 
 ^z3 Kumbhavagga 
 ^z4 2. Kāḷāyasaṅgapañha 
@@ -10469,7 +10469,7 @@ Ariyadhamme niyato visesagū;
 Nappavedhati anekabhāgaso, 
 Sabbaso ca mukhabhāvameva so’”ti. 
 ^m4 Kāḷāyasaṅgapañho dutiyo. 
-^sc7.8.3
+	^sc7.8.3
 ^z2 Opammakathāpañha 
 ^z3 Kumbhavagga 
 ^z4 3. Chattaṅgapañha 
@@ -10494,7 +10494,7 @@ sīlachattadharo suci;
 Kilesavuṭṭhiṁ vāreti, 
 santāpatividhaggayo’”ti. 
 ^m6 Chattaṅgapañho tatiyo. 
-^sc7.8.4
+	^sc7.8.4
 ^z2 Opammakathāpañha 
 ^z3 Kumbhavagga 
 ^z4 4. Khettaṅgapañha 
@@ -10517,7 +10517,7 @@ Uṭṭhānavipuladāyinā;
 Esa khettavaro nāma, 
 Yo dadāti vipulaṁ phalan’”ti. 
 ^m5 Khettaṅgapañho catuttho. 
-^sc7.8.5
+	^sc7.8.5
 ^z2 Opammakathāpañha 
 ^z3 Kumbhavagga 
 ^z4 5. Agadaṅgapañha 
@@ -10535,7 +10535,7 @@ daṭṭhukāmena yoginā;
 Agadeneva hotabbaṁ, 
 kilesavisanāsane’”ti. 
 ^m4 Agadaṅgapañho pañcamo. 
-^sc7.8.6
+	^sc7.8.6
 ^z2 Opammakathāpañha 
 ^z3 Kumbhavagga 
 ^z4 6. Bhojanaṅgapañha 
@@ -10556,7 +10556,7 @@ sīlena paṭipattiyā;
 Patthitena bhavitabbaṁ, 
 sabbalokassa yoginā’”ti. 
 ^m5 Bhojanaṅgapañho chaṭṭho. 
-^sc7.8.7
+	^sc7.8.7
 ^z2 Opammakathāpañha 
 ^z3 Kumbhavagga 
 ^z4 7. Issāsaṅgapañha 
@@ -10636,7 +10636,7 @@ chattaṁ khettañca agado;
 Bhojanena ca issāso, 
 vuttaṁ dāni vidūhīti. 
 Opammakathāpañho niṭṭhito. 
-^sc8p
+	^sc8p
 ^z2 Nigamana 
 ^m1 Iti chasu kaṇḍesu bāvīsativaggapatimaṇḍitesu dvāsaṭṭhiadhikā dvesatā imasmiṁ potthake āgatā milindapañhā samattā,
  anāgatā ca pana dvācattālīsā honti, āgatā ca anāgatā ca sabbā samodhānetvā catūhi adhikā tisatapañhā honti, sabbāva milindapañhāti saṅkhaṁ gacchanti. 
